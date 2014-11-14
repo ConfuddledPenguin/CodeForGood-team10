@@ -7,7 +7,7 @@ public class Controller {
 	public Controller(){
 		
 		//create interface
-		userInterface ui = new graphicalInterface();
+		userInterface ui = new clientGUI();
 		
 	}
 	
