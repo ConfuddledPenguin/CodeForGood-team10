@@ -2,14 +2,14 @@ package cfg.team10.userinterface;
 
 import javax.swing.*;
 
-public class graphicalInterface extends JFrame {
+public class graphicalInterface extends JFrame implements userInterface {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 4397889481843927876L;
 
-	private graphicalInterface() {
+	public graphicalInterface() {
         JLabel jlbHelloWorld = new JLabel("Hello World");
 
         add(jlbHelloWorld);
@@ -17,12 +17,6 @@ public class graphicalInterface extends JFrame {
         this.setSize(100,100);
 
         setVisible(true);
-	}
-
-	public static void main(String[] args) {
-
-		new graphicalInterface();
-
 	}
 
 }
