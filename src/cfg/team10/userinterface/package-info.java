@@ -5,4 +5,4 @@
  * @author nightpaws
  *
  */
-package team10.cfg.userinterface;
+package cfg.team10.userinterface;
