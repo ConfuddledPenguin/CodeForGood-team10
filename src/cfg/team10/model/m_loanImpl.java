@@ -13,8 +13,6 @@ import java.util.Date;
 public class m_loanImpl implements m_loan {
 	/**
 	 * The default value of the '{@link #getId() <em>Id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getId()
 	 * @generated
 	 * @ordered
@@ -23,8 +21,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getId() <em>Id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getId()
 	 * @generated
 	 * @ordered
@@ -33,8 +29,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getAccount_no() <em>Account no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAccount_no()
 	 * @generated
 	 * @ordered
@@ -43,8 +37,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getAccount_no() <em>Account no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAccount_no()
 	 * @generated
 	 * @ordered
@@ -53,8 +45,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getExternal_id() <em>External id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExternal_id()
 	 * @generated
 	 * @ordered
@@ -63,8 +53,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getExternal_id() <em>External id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExternal_id()
 	 * @generated
 	 * @ordered
@@ -73,8 +61,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getClient_id() <em>Client id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_id()
 	 * @generated
 	 * @ordered
@@ -83,8 +69,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getClient_id() <em>Client id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_id()
 	 * @generated
 	 * @ordered
@@ -93,8 +77,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getGroup_id() <em>Group id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGroup_id()
 	 * @generated
 	 * @ordered
@@ -103,8 +85,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getGroup_id() <em>Group id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGroup_id()
 	 * @generated
 	 * @ordered
@@ -113,8 +93,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getProduct_id() <em>Product id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getProduct_id()
 	 * @generated
 	 * @ordered
@@ -123,8 +101,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getProduct_id() <em>Product id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getProduct_id()
 	 * @generated
 	 * @ordered
@@ -133,8 +109,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFund_id() <em>Fund id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFund_id()
 	 * @generated
 	 * @ordered
@@ -143,8 +117,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFund_id() <em>Fund id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFund_id()
 	 * @generated
 	 * @ordered
@@ -153,8 +125,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_officer_id() <em>Loan officer id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_officer_id()
 	 * @generated
 	 * @ordered
@@ -163,8 +133,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_officer_id() <em>Loan officer id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_officer_id()
 	 * @generated
 	 * @ordered
@@ -173,8 +141,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoanpurpose_cv_id() <em>Loanpurpose cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoanpurpose_cv_id()
 	 * @generated
 	 * @ordered
@@ -183,8 +149,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoanpurpose_cv_id() <em>Loanpurpose cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoanpurpose_cv_id()
 	 * @generated
 	 * @ordered
@@ -193,8 +157,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_status_id() <em>Loan status id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_status_id()
 	 * @generated
 	 * @ordered
@@ -203,8 +165,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_status_id() <em>Loan status id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_status_id()
 	 * @generated
 	 * @ordered
@@ -213,8 +173,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_type_enum() <em>Loan type enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_type_enum()
 	 * @generated
 	 * @ordered
@@ -223,8 +181,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_type_enum() <em>Loan type enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_type_enum()
 	 * @generated
 	 * @ordered
@@ -233,8 +189,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getCurrency_code() <em>Currency code</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_code()
 	 * @generated
 	 * @ordered
@@ -243,8 +197,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getCurrency_code() <em>Currency code</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_code()
 	 * @generated
 	 * @ordered
@@ -253,8 +205,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getCurrency_digits() <em>Currency digits</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_digits()
 	 * @generated
 	 * @ordered
@@ -263,8 +213,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getCurrency_digits() <em>Currency digits</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_digits()
 	 * @generated
 	 * @ordered
@@ -273,8 +221,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getCurrency_multiplesof() <em>Currency multiplesof</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_multiplesof()
 	 * @generated
 	 * @ordered
@@ -283,8 +229,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getCurrency_multiplesof() <em>Currency multiplesof</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getCurrency_multiplesof()
 	 * @generated
 	 * @ordered
@@ -293,8 +237,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPrincipal_amount() <em>Principal amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_amount()
 	 * @generated
 	 * @ordered
@@ -303,8 +245,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPrincipal_amount() <em>Principal amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_amount()
 	 * @generated
 	 * @ordered
@@ -313,8 +253,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getApproved_principal() <em>Approved principal</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApproved_principal()
 	 * @generated
 	 * @ordered
@@ -323,8 +261,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getApproved_principal() <em>Approved principal</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApproved_principal()
 	 * @generated
 	 * @ordered
@@ -333,8 +269,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getArrearstolerance_amount() <em>Arrearstolerance amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getArrearstolerance_amount()
 	 * @generated
 	 * @ordered
@@ -343,8 +277,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getArrearstolerance_amount() <em>Arrearstolerance amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getArrearstolerance_amount()
 	 * @generated
 	 * @ordered
@@ -353,8 +285,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getNominal_interest_rate_per_period() <em>Nominal interest rate per period</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getNominal_interest_rate_per_period()
 	 * @generated
 	 * @ordered
@@ -363,8 +293,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getNominal_interest_rate_per_period() <em>Nominal interest rate per period</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getNominal_interest_rate_per_period()
 	 * @generated
 	 * @ordered
@@ -373,8 +301,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_period_frequency_enum() <em>Interest period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -383,8 +309,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_period_frequency_enum() <em>Interest period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -393,8 +317,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getAnnual_nominal_interest_rate() <em>Annual nominal interest rate</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAnnual_nominal_interest_rate()
 	 * @generated
 	 * @ordered
@@ -403,8 +325,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getAnnual_nominal_interest_rate() <em>Annual nominal interest rate</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAnnual_nominal_interest_rate()
 	 * @generated
 	 * @ordered
@@ -413,8 +333,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_method_enum() <em>Interest method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_method_enum()
 	 * @generated
 	 * @ordered
@@ -423,8 +341,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_method_enum() <em>Interest method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_method_enum()
 	 * @generated
 	 * @ordered
@@ -433,8 +349,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_calculated_in_period_enum() <em>Interest calculated in period enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_calculated_in_period_enum()
 	 * @generated
 	 * @ordered
@@ -443,8 +357,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_calculated_in_period_enum() <em>Interest calculated in period enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_calculated_in_period_enum()
 	 * @generated
 	 * @ordered
@@ -453,8 +365,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTerm_frequency() <em>Term frequency</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTerm_frequency()
 	 * @generated
 	 * @ordered
@@ -463,8 +373,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTerm_frequency() <em>Term frequency</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTerm_frequency()
 	 * @generated
 	 * @ordered
@@ -473,8 +381,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTerm_period_frequency_enum() <em>Term period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTerm_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -483,8 +389,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTerm_period_frequency_enum() <em>Term period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTerm_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -493,8 +397,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRepay_every() <em>Repay every</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRepay_every()
 	 * @generated
 	 * @ordered
@@ -503,8 +405,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRepay_every() <em>Repay every</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRepay_every()
 	 * @generated
 	 * @ordered
@@ -513,8 +413,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRepayment_period_frequency_enum() <em>Repayment period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRepayment_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -523,8 +421,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRepayment_period_frequency_enum() <em>Repayment period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRepayment_period_frequency_enum()
 	 * @generated
 	 * @ordered
@@ -533,8 +429,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getNumber_of_repayments() <em>Number of repayments</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getNumber_of_repayments()
 	 * @generated
 	 * @ordered
@@ -543,8 +437,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getNumber_of_repayments() <em>Number of repayments</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getNumber_of_repayments()
 	 * @generated
 	 * @ordered
@@ -553,8 +445,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getGrace_on_principal_periods() <em>Grace on principal periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_principal_periods()
 	 * @generated
 	 * @ordered
@@ -563,8 +453,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getGrace_on_principal_periods() <em>Grace on principal periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_principal_periods()
 	 * @generated
 	 * @ordered
@@ -573,8 +461,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getGrace_on_interest_periods() <em>Grace on interest periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_interest_periods()
 	 * @generated
 	 * @ordered
@@ -583,8 +469,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getGrace_on_interest_periods() <em>Grace on interest periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_interest_periods()
 	 * @generated
 	 * @ordered
@@ -593,8 +477,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getGrace_interest_free_periods() <em>Grace interest free periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_interest_free_periods()
 	 * @generated
 	 * @ordered
@@ -603,8 +485,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getGrace_interest_free_periods() <em>Grace interest free periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_interest_free_periods()
 	 * @generated
 	 * @ordered
@@ -613,8 +493,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getAmortization_method_enum() <em>Amortization method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAmortization_method_enum()
 	 * @generated
 	 * @ordered
@@ -623,8 +501,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getAmortization_method_enum() <em>Amortization method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAmortization_method_enum()
 	 * @generated
 	 * @ordered
@@ -633,8 +509,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getSubmittedon_date() <em>Submittedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_date()
 	 * @generated
 	 * @ordered
@@ -643,8 +517,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getSubmittedon_date() <em>Submittedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_date()
 	 * @generated
 	 * @ordered
@@ -653,8 +525,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getSubmittedon_userid() <em>Submittedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_userid()
 	 * @generated
 	 * @ordered
@@ -663,8 +533,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getSubmittedon_userid() <em>Submittedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_userid()
 	 * @generated
 	 * @ordered
@@ -673,8 +541,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getApprovedon_date() <em>Approvedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApprovedon_date()
 	 * @generated
 	 * @ordered
@@ -683,8 +549,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getApprovedon_date() <em>Approvedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApprovedon_date()
 	 * @generated
 	 * @ordered
@@ -693,8 +557,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getApprovedon_userid() <em>Approvedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApprovedon_userid()
 	 * @generated
 	 * @ordered
@@ -703,8 +565,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getApprovedon_userid() <em>Approvedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getApprovedon_userid()
 	 * @generated
 	 * @ordered
@@ -713,8 +573,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getExpected_disbursedon_date() <em>Expected disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_disbursedon_date()
 	 * @generated
 	 * @ordered
@@ -723,8 +581,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getExpected_disbursedon_date() <em>Expected disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_disbursedon_date()
 	 * @generated
 	 * @ordered
@@ -733,8 +589,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getExpected_firstrepaymenton_date() <em>Expected firstrepaymenton date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_firstrepaymenton_date()
 	 * @generated
 	 * @ordered
@@ -743,8 +597,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getExpected_firstrepaymenton_date() <em>Expected firstrepaymenton date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_firstrepaymenton_date()
 	 * @generated
 	 * @ordered
@@ -753,8 +605,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_calculated_from_date() <em>Interest calculated from date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_calculated_from_date()
 	 * @generated
 	 * @ordered
@@ -763,8 +613,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_calculated_from_date() <em>Interest calculated from date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_calculated_from_date()
 	 * @generated
 	 * @ordered
@@ -773,8 +621,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getDisbursedon_date() <em>Disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisbursedon_date()
 	 * @generated
 	 * @ordered
@@ -783,8 +629,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getDisbursedon_date() <em>Disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisbursedon_date()
 	 * @generated
 	 * @ordered
@@ -793,8 +637,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getDisbursedon_userid() <em>Disbursedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisbursedon_userid()
 	 * @generated
 	 * @ordered
@@ -803,8 +645,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getDisbursedon_userid() <em>Disbursedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisbursedon_userid()
 	 * @generated
 	 * @ordered
@@ -813,8 +653,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getExpected_maturedon_date() <em>Expected maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_maturedon_date()
 	 * @generated
 	 * @ordered
@@ -823,8 +661,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getExpected_maturedon_date() <em>Expected maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExpected_maturedon_date()
 	 * @generated
 	 * @ordered
@@ -833,8 +669,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getMaturedon_date() <em>Maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMaturedon_date()
 	 * @generated
 	 * @ordered
@@ -843,8 +677,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getMaturedon_date() <em>Maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMaturedon_date()
 	 * @generated
 	 * @ordered
@@ -853,8 +685,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getClosedon_date() <em>Closedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_date()
 	 * @generated
 	 * @ordered
@@ -863,8 +693,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getClosedon_date() <em>Closedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_date()
 	 * @generated
 	 * @ordered
@@ -873,8 +701,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getClosedon_userid() <em>Closedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_userid()
 	 * @generated
 	 * @ordered
@@ -883,8 +709,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getClosedon_userid() <em>Closedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_userid()
 	 * @generated
 	 * @ordered
@@ -893,8 +717,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_charges_due_at_disbursement_derived() <em>Total charges due at disbursement derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_charges_due_at_disbursement_derived()
 	 * @generated
 	 * @ordered
@@ -903,8 +725,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_charges_due_at_disbursement_derived() <em>Total charges due at disbursement derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_charges_due_at_disbursement_derived()
 	 * @generated
 	 * @ordered
@@ -913,8 +733,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPrincipal_disbursed_derived() <em>Principal disbursed derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_disbursed_derived()
 	 * @generated
 	 * @ordered
@@ -923,8 +741,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPrincipal_disbursed_derived() <em>Principal disbursed derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_disbursed_derived()
 	 * @generated
 	 * @ordered
@@ -933,8 +749,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPrincipal_repaid_derived() <em>Principal repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -943,8 +757,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPrincipal_repaid_derived() <em>Principal repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -953,8 +765,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPrincipal_writtenoff_derived() <em>Principal writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -963,8 +773,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPrincipal_writtenoff_derived() <em>Principal writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -973,8 +781,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPrincipal_outstanding_derived() <em>Principal outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -983,8 +789,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPrincipal_outstanding_derived() <em>Principal outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPrincipal_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -993,8 +797,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_charged_derived() <em>Interest charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1003,8 +805,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_charged_derived() <em>Interest charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1013,8 +813,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_repaid_derived() <em>Interest repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1023,8 +821,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_repaid_derived() <em>Interest repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1033,8 +829,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_waived_derived() <em>Interest waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1043,8 +837,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_waived_derived() <em>Interest waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1053,8 +845,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_writtenoff_derived() <em>Interest writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1063,8 +853,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_writtenoff_derived() <em>Interest writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1073,8 +861,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getInterest_outstanding_derived() <em>Interest outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1083,8 +869,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getInterest_outstanding_derived() <em>Interest outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getInterest_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1093,8 +877,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFee_charges_charged_derived() <em>Fee charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1103,8 +885,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFee_charges_charged_derived() <em>Fee charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1113,8 +893,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFee_charges_repaid_derived() <em>Fee charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1123,8 +901,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFee_charges_repaid_derived() <em>Fee charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1133,8 +909,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFee_charges_waived_derived() <em>Fee charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1143,8 +917,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFee_charges_waived_derived() <em>Fee charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1153,8 +925,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFee_charges_writtenoff_derived() <em>Fee charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1163,8 +933,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFee_charges_writtenoff_derived() <em>Fee charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1173,8 +941,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFee_charges_outstanding_derived() <em>Fee charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1183,8 +949,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFee_charges_outstanding_derived() <em>Fee charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFee_charges_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1193,8 +957,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPenalty_charges_charged_derived() <em>Penalty charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1203,8 +965,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPenalty_charges_charged_derived() <em>Penalty charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_charged_derived()
 	 * @generated
 	 * @ordered
@@ -1213,8 +973,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPenalty_charges_repaid_derived() <em>Penalty charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1223,8 +981,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPenalty_charges_repaid_derived() <em>Penalty charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_repaid_derived()
 	 * @generated
 	 * @ordered
@@ -1233,8 +989,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPenalty_charges_waived_derived() <em>Penalty charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1243,8 +997,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPenalty_charges_waived_derived() <em>Penalty charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1253,8 +1005,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPenalty_charges_writtenoff_derived() <em>Penalty charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1263,8 +1013,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPenalty_charges_writtenoff_derived() <em>Penalty charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1273,8 +1021,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getPenalty_charges_outstanding_derived() <em>Penalty charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1283,8 +1029,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getPenalty_charges_outstanding_derived() <em>Penalty charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getPenalty_charges_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1293,8 +1037,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_expected_repayment_derived() <em>Total expected repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_expected_repayment_derived()
 	 * @generated
 	 * @ordered
@@ -1303,8 +1045,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_expected_repayment_derived() <em>Total expected repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_expected_repayment_derived()
 	 * @generated
 	 * @ordered
@@ -1313,8 +1053,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_repayment_derived() <em>Total repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_repayment_derived()
 	 * @generated
 	 * @ordered
@@ -1323,8 +1061,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_repayment_derived() <em>Total repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_repayment_derived()
 	 * @generated
 	 * @ordered
@@ -1333,8 +1069,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_expected_costofloan_derived() <em>Total expected costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_expected_costofloan_derived()
 	 * @generated
 	 * @ordered
@@ -1343,8 +1077,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_expected_costofloan_derived() <em>Total expected costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_expected_costofloan_derived()
 	 * @generated
 	 * @ordered
@@ -1353,8 +1085,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_costofloan_derived() <em>Total costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_costofloan_derived()
 	 * @generated
 	 * @ordered
@@ -1363,8 +1093,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_costofloan_derived() <em>Total costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_costofloan_derived()
 	 * @generated
 	 * @ordered
@@ -1373,8 +1101,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_waived_derived() <em>Total waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1383,8 +1109,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_waived_derived() <em>Total waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_waived_derived()
 	 * @generated
 	 * @ordered
@@ -1393,8 +1117,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_writtenoff_derived() <em>Total writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1403,8 +1125,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_writtenoff_derived() <em>Total writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_writtenoff_derived()
 	 * @generated
 	 * @ordered
@@ -1413,8 +1133,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_outstanding_derived() <em>Total outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1423,8 +1141,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_outstanding_derived() <em>Total outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_outstanding_derived()
 	 * @generated
 	 * @ordered
@@ -1433,8 +1149,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_overpaid_derived() <em>Total overpaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_overpaid_derived()
 	 * @generated
 	 * @ordered
@@ -1443,8 +1157,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_overpaid_derived() <em>Total overpaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_overpaid_derived()
 	 * @generated
 	 * @ordered
@@ -1453,8 +1165,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRejectedon_date() <em>Rejectedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRejectedon_date()
 	 * @generated
 	 * @ordered
@@ -1463,8 +1173,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRejectedon_date() <em>Rejectedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRejectedon_date()
 	 * @generated
 	 * @ordered
@@ -1473,8 +1181,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRejectedon_userid() <em>Rejectedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRejectedon_userid()
 	 * @generated
 	 * @ordered
@@ -1483,8 +1189,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRejectedon_userid() <em>Rejectedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRejectedon_userid()
 	 * @generated
 	 * @ordered
@@ -1493,8 +1197,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRescheduledon_date() <em>Rescheduledon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRescheduledon_date()
 	 * @generated
 	 * @ordered
@@ -1503,8 +1205,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRescheduledon_date() <em>Rescheduledon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRescheduledon_date()
 	 * @generated
 	 * @ordered
@@ -1513,8 +1213,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getRescheduledon_userid() <em>Rescheduledon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRescheduledon_userid()
 	 * @generated
 	 * @ordered
@@ -1523,8 +1221,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getRescheduledon_userid() <em>Rescheduledon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getRescheduledon_userid()
 	 * @generated
 	 * @ordered
@@ -1533,8 +1229,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getWithdrawnon_date() <em>Withdrawnon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWithdrawnon_date()
 	 * @generated
 	 * @ordered
@@ -1543,8 +1237,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getWithdrawnon_date() <em>Withdrawnon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWithdrawnon_date()
 	 * @generated
 	 * @ordered
@@ -1553,8 +1245,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getWithdrawnon_userid() <em>Withdrawnon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWithdrawnon_userid()
 	 * @generated
 	 * @ordered
@@ -1563,8 +1253,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getWithdrawnon_userid() <em>Withdrawnon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWithdrawnon_userid()
 	 * @generated
 	 * @ordered
@@ -1573,8 +1261,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getWrittenoffon_date() <em>Writtenoffon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWrittenoffon_date()
 	 * @generated
 	 * @ordered
@@ -1583,8 +1269,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getWrittenoffon_date() <em>Writtenoffon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getWrittenoffon_date()
 	 * @generated
 	 * @ordered
@@ -1593,8 +1277,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_transaction_strategy_id() <em>Loan transaction strategy id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_transaction_strategy_id()
 	 * @generated
 	 * @ordered
@@ -1603,8 +1285,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_transaction_strategy_id() <em>Loan transaction strategy id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_transaction_strategy_id()
 	 * @generated
 	 * @ordered
@@ -1613,8 +1293,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #isSync_disbursement_with_meeting() <em>Sync disbursement with meeting</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #isSync_disbursement_with_meeting()
 	 * @generated
 	 * @ordered
@@ -1623,8 +1301,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #isSync_disbursement_with_meeting() <em>Sync disbursement with meeting</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #isSync_disbursement_with_meeting()
 	 * @generated
 	 * @ordered
@@ -1633,8 +1309,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_counter() <em>Loan counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_counter()
 	 * @generated
 	 * @ordered
@@ -1643,8 +1317,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_counter() <em>Loan counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_counter()
 	 * @generated
 	 * @ordered
@@ -1653,8 +1325,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getLoan_product_counter() <em>Loan product counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_product_counter()
 	 * @generated
 	 * @ordered
@@ -1663,8 +1333,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getLoan_product_counter() <em>Loan product counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLoan_product_counter()
 	 * @generated
 	 * @ordered
@@ -1673,8 +1341,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getFixed_emi_amount() <em>Fixed emi amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFixed_emi_amount()
 	 * @generated
 	 * @ordered
@@ -1683,8 +1349,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getFixed_emi_amount() <em>Fixed emi amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFixed_emi_amount()
 	 * @generated
 	 * @ordered
@@ -1693,8 +1357,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getMax_outstanding_loan_balance() <em>Max outstanding loan balance</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMax_outstanding_loan_balance()
 	 * @generated
 	 * @ordered
@@ -1703,8 +1365,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getMax_outstanding_loan_balance() <em>Max outstanding loan balance</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMax_outstanding_loan_balance()
 	 * @generated
 	 * @ordered
@@ -1713,8 +1373,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getGrace_on_arrears_ageing() <em>Grace on arrears ageing</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_arrears_ageing()
 	 * @generated
 	 * @ordered
@@ -1723,8 +1381,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getGrace_on_arrears_ageing() <em>Grace on arrears ageing</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGrace_on_arrears_ageing()
 	 * @generated
 	 * @ordered
@@ -1733,8 +1389,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #isIs_npa() <em>Is npa</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #isIs_npa()
 	 * @generated
 	 * @ordered
@@ -1743,8 +1397,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #isIs_npa() <em>Is npa</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #isIs_npa()
 	 * @generated
 	 * @ordered
@@ -1753,8 +1405,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The default value of the '{@link #getTotal_recovered_derived() <em>Total recovered derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_recovered_derived()
 	 * @generated
 	 * @ordered
@@ -1763,8 +1413,6 @@ public class m_loanImpl implements m_loan {
 
 	/**
 	 * The cached value of the '{@link #getTotal_recovered_derived() <em>Total recovered derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTotal_recovered_derived()
 	 * @generated
 	 * @ordered
@@ -1772,8 +1420,6 @@ public class m_loanImpl implements m_loan {
 	protected double total_recovered_derived = TOTAL_RECOVERED_DERIVED_EDEFAULT;
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	protected m_loanImpl() {
@@ -1781,8 +1427,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getId() {
@@ -1790,8 +1434,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setId(int newId) {
@@ -1800,8 +1442,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getAccount_no() {
@@ -1809,8 +1449,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setAccount_no(String newAccount_no) {
@@ -1819,8 +1457,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getExternal_id() {
@@ -1828,8 +1464,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setExternal_id(String newExternal_id) {
@@ -1838,8 +1472,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClient_id() {
@@ -1847,8 +1479,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClient_id(int newClient_id) {
@@ -1857,8 +1487,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGroup_id() {
@@ -1866,8 +1494,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGroup_id(int newGroup_id) {
@@ -1876,8 +1502,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getProduct_id() {
@@ -1885,8 +1509,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setProduct_id(int newProduct_id) {
@@ -1895,8 +1517,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getFund_id() {
@@ -1904,8 +1524,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFund_id(int newFund_id) {
@@ -1913,8 +1531,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_officer_id() {
@@ -1922,8 +1538,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_officer_id(int newLoan_officer_id) {
@@ -1931,8 +1545,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoanpurpose_cv_id() {
@@ -1940,8 +1552,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoanpurpose_cv_id(int newLoanpurpose_cv_id) {
@@ -1950,8 +1560,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_status_id() {
@@ -1959,8 +1567,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_status_id(int newLoan_status_id) {
@@ -1969,8 +1575,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_type_enum() {
@@ -1978,8 +1582,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_type_enum(int newLoan_type_enum) {
@@ -1988,8 +1590,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getCurrency_code() {
@@ -1997,8 +1597,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setCurrency_code(String newCurrency_code) {
@@ -2007,8 +1605,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getCurrency_digits() {
@@ -2016,8 +1612,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setCurrency_digits(int newCurrency_digits) {
@@ -2026,8 +1620,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getCurrency_multiplesof() {
@@ -2035,8 +1627,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setCurrency_multiplesof(int newCurrency_multiplesof) {
@@ -2045,8 +1635,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPrincipal_amount() {
@@ -2054,8 +1642,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPrincipal_amount(double newPrincipal_amount) {
@@ -2064,8 +1650,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getApproved_principal() {
@@ -2073,8 +1657,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setApproved_principal(double newApproved_principal) {
@@ -2083,8 +1665,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getArrearstolerance_amount() {
@@ -2092,8 +1672,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setArrearstolerance_amount(double newArrearstolerance_amount) {
@@ -2102,8 +1680,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getNominal_interest_rate_per_period() {
@@ -2111,8 +1687,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setNominal_interest_rate_per_period(double newNominal_interest_rate_per_period) {
@@ -2121,8 +1695,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getInterest_period_frequency_enum() {
@@ -2130,8 +1702,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_period_frequency_enum(int newInterest_period_frequency_enum) {
@@ -2140,8 +1710,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getAnnual_nominal_interest_rate() {
@@ -2149,8 +1717,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setAnnual_nominal_interest_rate(double newAnnual_nominal_interest_rate) {
@@ -2159,8 +1725,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getInterest_method_enum() {
@@ -2168,8 +1732,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_method_enum(int newInterest_method_enum) {
@@ -2178,8 +1740,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getInterest_calculated_in_period_enum() {
@@ -2187,8 +1747,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_calculated_in_period_enum(int newInterest_calculated_in_period_enum) {
@@ -2197,8 +1755,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getTerm_frequency() {
@@ -2206,8 +1762,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTerm_frequency(int newTerm_frequency) {
@@ -2216,8 +1770,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getTerm_period_frequency_enum() {
@@ -2225,8 +1777,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTerm_period_frequency_enum(int newTerm_period_frequency_enum) {
@@ -2235,8 +1785,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getRepay_every() {
@@ -2244,8 +1792,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRepay_every(int newRepay_every) {
@@ -2254,8 +1800,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getRepayment_period_frequency_enum() {
@@ -2263,8 +1807,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRepayment_period_frequency_enum(int newRepayment_period_frequency_enum) {
@@ -2273,8 +1815,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getNumber_of_repayments() {
@@ -2282,8 +1822,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setNumber_of_repayments(int newNumber_of_repayments) {
@@ -2292,8 +1830,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGrace_on_principal_periods() {
@@ -2301,8 +1837,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGrace_on_principal_periods(int newGrace_on_principal_periods) {
@@ -2311,8 +1845,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGrace_on_interest_periods() {
@@ -2320,8 +1852,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGrace_on_interest_periods(int newGrace_on_interest_periods) {
@@ -2330,8 +1860,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGrace_interest_free_periods() {
@@ -2339,8 +1867,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGrace_interest_free_periods(int newGrace_interest_free_periods) {
@@ -2349,8 +1875,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getAmortization_method_enum() {
@@ -2358,8 +1882,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setAmortization_method_enum(int newAmortization_method_enum) {
@@ -2368,8 +1890,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getSubmittedon_date() {
@@ -2377,8 +1897,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setSubmittedon_date(Date newSubmittedon_date) {
@@ -2387,8 +1905,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getSubmittedon_userid() {
@@ -2396,8 +1912,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setSubmittedon_userid(int newSubmittedon_userid) {
@@ -2406,8 +1920,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getApprovedon_date() {
@@ -2415,8 +1927,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setApprovedon_date(Date newApprovedon_date) {
@@ -2425,8 +1935,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getApprovedon_userid() {
@@ -2434,8 +1942,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setApprovedon_userid(int newApprovedon_userid) {
@@ -2444,8 +1950,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getExpected_disbursedon_date() {
@@ -2453,8 +1957,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setExpected_disbursedon_date(Date newExpected_disbursedon_date) {
@@ -2463,8 +1965,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getExpected_firstrepaymenton_date() {
@@ -2472,8 +1972,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setExpected_firstrepaymenton_date(Date newExpected_firstrepaymenton_date) {
@@ -2482,8 +1980,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getInterest_calculated_from_date() {
@@ -2491,8 +1987,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_calculated_from_date(Date newInterest_calculated_from_date) {
@@ -2501,8 +1995,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getDisbursedon_date() {
@@ -2510,8 +2002,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDisbursedon_date(Date newDisbursedon_date) {
@@ -2520,8 +2010,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getDisbursedon_userid() {
@@ -2529,8 +2017,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDisbursedon_userid(int newDisbursedon_userid) {
@@ -2539,8 +2025,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getExpected_maturedon_date() {
@@ -2548,8 +2032,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setExpected_maturedon_date(Date newExpected_maturedon_date) {
@@ -2558,8 +2040,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getMaturedon_date() {
@@ -2567,8 +2047,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setMaturedon_date(Date newMaturedon_date) {
@@ -2577,8 +2055,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getClosedon_date() {
@@ -2586,8 +2062,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClosedon_date(Date newClosedon_date) {
@@ -2596,8 +2070,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClosedon_userid() {
@@ -2605,8 +2077,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClosedon_userid(int newClosedon_userid) {
@@ -2615,8 +2085,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_charges_due_at_disbursement_derived() {
@@ -2624,8 +2092,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_charges_due_at_disbursement_derived(double newTotal_charges_due_at_disbursement_derived) {
@@ -2634,8 +2100,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPrincipal_disbursed_derived() {
@@ -2643,8 +2107,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPrincipal_disbursed_derived(double newPrincipal_disbursed_derived) {
@@ -2653,8 +2115,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPrincipal_repaid_derived() {
@@ -2662,8 +2122,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPrincipal_repaid_derived(double newPrincipal_repaid_derived) {
@@ -2672,8 +2130,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPrincipal_writtenoff_derived() {
@@ -2681,8 +2137,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPrincipal_writtenoff_derived(double newPrincipal_writtenoff_derived) {
@@ -2691,8 +2145,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPrincipal_outstanding_derived() {
@@ -2700,8 +2152,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPrincipal_outstanding_derived(double newPrincipal_outstanding_derived) {
@@ -2710,8 +2160,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getInterest_charged_derived() {
@@ -2719,8 +2167,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_charged_derived(double newInterest_charged_derived) {
@@ -2729,8 +2175,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getInterest_repaid_derived() {
@@ -2738,8 +2182,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_repaid_derived(double newInterest_repaid_derived) {
@@ -2748,8 +2190,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getInterest_waived_derived() {
@@ -2757,8 +2197,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_waived_derived(double newInterest_waived_derived) {
@@ -2767,8 +2205,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getInterest_writtenoff_derived() {
@@ -2776,8 +2212,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_writtenoff_derived(double newInterest_writtenoff_derived) {
@@ -2786,8 +2220,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getInterest_outstanding_derived() {
@@ -2795,8 +2227,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setInterest_outstanding_derived(double newInterest_outstanding_derived) {
@@ -2805,8 +2235,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFee_charges_charged_derived() {
@@ -2814,8 +2242,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFee_charges_charged_derived(double newFee_charges_charged_derived) {
@@ -2824,8 +2250,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFee_charges_repaid_derived() {
@@ -2833,8 +2257,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFee_charges_repaid_derived(double newFee_charges_repaid_derived) {
@@ -2843,8 +2265,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFee_charges_waived_derived() {
@@ -2852,8 +2272,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFee_charges_waived_derived(double newFee_charges_waived_derived) {
@@ -2862,8 +2280,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFee_charges_writtenoff_derived() {
@@ -2871,8 +2287,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFee_charges_writtenoff_derived(double newFee_charges_writtenoff_derived) {
@@ -2881,8 +2295,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFee_charges_outstanding_derived() {
@@ -2890,8 +2302,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFee_charges_outstanding_derived(double newFee_charges_outstanding_derived) {
@@ -2900,8 +2310,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPenalty_charges_charged_derived() {
@@ -2909,8 +2317,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPenalty_charges_charged_derived(double newPenalty_charges_charged_derived) {
@@ -2919,8 +2325,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPenalty_charges_repaid_derived() {
@@ -2928,8 +2332,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPenalty_charges_repaid_derived(double newPenalty_charges_repaid_derived) {
@@ -2938,8 +2340,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPenalty_charges_waived_derived() {
@@ -2947,8 +2347,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPenalty_charges_waived_derived(double newPenalty_charges_waived_derived) {
@@ -2957,8 +2355,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPenalty_charges_writtenoff_derived() {
@@ -2966,8 +2362,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPenalty_charges_writtenoff_derived(double newPenalty_charges_writtenoff_derived) {
@@ -2976,8 +2370,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getPenalty_charges_outstanding_derived() {
@@ -2985,8 +2377,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setPenalty_charges_outstanding_derived(double newPenalty_charges_outstanding_derived) {
@@ -2995,8 +2385,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_expected_repayment_derived() {
@@ -3004,8 +2392,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_expected_repayment_derived(double newTotal_expected_repayment_derived) {
@@ -3014,8 +2400,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_repayment_derived() {
@@ -3023,8 +2407,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_repayment_derived(double newTotal_repayment_derived) {
@@ -3033,8 +2415,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_expected_costofloan_derived() {
@@ -3042,8 +2422,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_expected_costofloan_derived(double newTotal_expected_costofloan_derived) {
@@ -3052,8 +2430,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_costofloan_derived() {
@@ -3061,8 +2437,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_costofloan_derived(double newTotal_costofloan_derived) {
@@ -3071,8 +2445,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_waived_derived() {
@@ -3080,8 +2452,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_waived_derived(double newTotal_waived_derived) {
@@ -3090,8 +2460,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_writtenoff_derived() {
@@ -3099,8 +2467,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_writtenoff_derived(double newTotal_writtenoff_derived) {
@@ -3109,8 +2475,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_outstanding_derived() {
@@ -3118,8 +2482,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_outstanding_derived(double newTotal_outstanding_derived) {
@@ -3128,8 +2490,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_overpaid_derived() {
@@ -3137,8 +2497,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_overpaid_derived(double newTotal_overpaid_derived) {
@@ -3147,8 +2505,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getRejectedon_date() {
@@ -3156,8 +2512,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRejectedon_date(Date newRejectedon_date) {
@@ -3166,8 +2520,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getRejectedon_userid() {
@@ -3175,8 +2527,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRejectedon_userid(int newRejectedon_userid) {
@@ -3185,8 +2535,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getRescheduledon_date() {
@@ -3194,8 +2542,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRescheduledon_date(Date newRescheduledon_date) {
@@ -3204,8 +2550,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getRescheduledon_userid() {
@@ -3213,8 +2557,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setRescheduledon_userid(int newRescheduledon_userid) {
@@ -3223,8 +2565,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getWithdrawnon_date() {
@@ -3232,8 +2572,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setWithdrawnon_date(Date newWithdrawnon_date) {
@@ -3242,8 +2580,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getWithdrawnon_userid() {
@@ -3251,8 +2587,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setWithdrawnon_userid(int newWithdrawnon_userid) {
@@ -3261,8 +2595,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getWrittenoffon_date() {
@@ -3270,8 +2602,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setWrittenoffon_date(Date newWrittenoffon_date) {
@@ -3280,8 +2610,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_transaction_strategy_id() {
@@ -3289,8 +2617,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_transaction_strategy_id(int newLoan_transaction_strategy_id) {
@@ -3299,8 +2625,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public boolean isSync_disbursement_with_meeting() {
@@ -3308,8 +2632,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setSync_disbursement_with_meeting(boolean newSync_disbursement_with_meeting) {
@@ -3318,8 +2640,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_counter() {
@@ -3327,8 +2647,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_counter(int newLoan_counter) {
@@ -3337,8 +2655,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getLoan_product_counter() {
@@ -3346,8 +2662,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLoan_product_counter(int newLoan_product_counter) {
@@ -3356,8 +2670,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getFixed_emi_amount() {
@@ -3365,8 +2677,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFixed_emi_amount(double newFixed_emi_amount) {
@@ -3375,8 +2685,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getMax_outstanding_loan_balance() {
@@ -3384,8 +2692,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setMax_outstanding_loan_balance(double newMax_outstanding_loan_balance) {
@@ -3394,8 +2700,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGrace_on_arrears_ageing() {
@@ -3403,8 +2707,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGrace_on_arrears_ageing(int newGrace_on_arrears_ageing) {
@@ -3413,8 +2715,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public boolean isIs_npa() {
@@ -3422,8 +2722,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setIs_npa(boolean newIs_npa) {
@@ -3432,8 +2730,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public double getTotal_recovered_derived() {
@@ -3441,8 +2737,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTotal_recovered_derived(double newTotal_recovered_derived) {
@@ -3451,8 +2745,6 @@ public class m_loanImpl implements m_loan {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	@Override

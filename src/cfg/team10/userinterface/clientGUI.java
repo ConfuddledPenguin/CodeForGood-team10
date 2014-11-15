@@ -107,12 +107,13 @@ public class clientGUI extends JFrame implements userInterface {
 						"Please Enter MemberID: ", "Existing Member",
 						messageType);
 
-				//yes 0 no 1 cancel 2
-				int usrChoice = JOptionPane.showConfirmDialog(p1,
-						"Has the purpose of this loan changed?", "Purpose?", 1);
-				System.out.println(usrChoice);
+				// yes 0 no 1 cancel 2
+//				int usrChoice = JOptionPane.showConfirmDialog(p1,
+//						"Has the purpose of this loan changed?", "Purpose?", 1);
+//				System.out.println(usrChoice);
 
-				memberLookup(search, membId);
+//				if (usrChoice != 2)
+					memberLookup(search, membId);
 			}
 		});
 		p1.setVisible(true);

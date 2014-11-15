@@ -12,12 +12,10 @@ import java.util.Date;
 public interface m_loan {
 	/**
 	 * Returns the value of the '<em><b>Id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Id</em>' attribute.
 	 * @see #setId(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Id()
@@ -28,8 +26,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getId <em>Id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Id</em>' attribute.
 	 * @see #getId()
 	 * @generated
@@ -38,12 +34,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Account no</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Account no</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Account no</em>' attribute.
 	 * @see #setAccount_no(String)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Account_no()
@@ -54,8 +48,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getAccount_no <em>Account no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Account no</em>' attribute.
 	 * @see #getAccount_no()
 	 * @generated
@@ -64,12 +56,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>External id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>External id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>External id</em>' attribute.
 	 * @see #setExternal_id(String)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_External_id()
@@ -80,8 +70,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getExternal_id <em>External id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>External id</em>' attribute.
 	 * @see #getExternal_id()
 	 * @generated
@@ -90,12 +78,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Client id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Client id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Client id</em>' attribute.
 	 * @see #setClient_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Client_id()
@@ -106,8 +92,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getClient_id <em>Client id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Client id</em>' attribute.
 	 * @see #getClient_id()
 	 * @generated
@@ -116,12 +100,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Group id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Group id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Group id</em>' attribute.
 	 * @see #setGroup_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Group_id()
@@ -132,8 +114,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getGroup_id <em>Group id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Group id</em>' attribute.
 	 * @see #getGroup_id()
 	 * @generated
@@ -142,12 +122,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Product id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Product id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Product id</em>' attribute.
 	 * @see #setProduct_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Product_id()
@@ -158,8 +136,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getProduct_id <em>Product id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Product id</em>' attribute.
 	 * @see #getProduct_id()
 	 * @generated
@@ -168,12 +144,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fund id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fund id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fund id</em>' attribute.
 	 * @see #setFund_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fund_id()
@@ -184,8 +158,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFund_id <em>Fund id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fund id</em>' attribute.
 	 * @see #getFund_id()
 	 * @generated
@@ -194,12 +166,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan officer id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan officer id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan officer id</em>' attribute.
 	 * @see #setLoan_officer_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_officer_id()
@@ -210,8 +180,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_officer_id <em>Loan officer id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan officer id</em>' attribute.
 	 * @see #getLoan_officer_id()
 	 * @generated
@@ -220,12 +188,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loanpurpose cv id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loanpurpose cv id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loanpurpose cv id</em>' attribute.
 	 * @see #setLoanpurpose_cv_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loanpurpose_cv_id()
@@ -236,8 +202,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoanpurpose_cv_id <em>Loanpurpose cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loanpurpose cv id</em>' attribute.
 	 * @see #getLoanpurpose_cv_id()
 	 * @generated
@@ -246,12 +210,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan status id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan status id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan status id</em>' attribute.
 	 * @see #setLoan_status_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_status_id()
@@ -262,8 +224,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_status_id <em>Loan status id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan status id</em>' attribute.
 	 * @see #getLoan_status_id()
 	 * @generated
@@ -272,12 +232,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan type enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan type enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan type enum</em>' attribute.
 	 * @see #setLoan_type_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_type_enum()
@@ -288,8 +246,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_type_enum <em>Loan type enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan type enum</em>' attribute.
 	 * @see #getLoan_type_enum()
 	 * @generated
@@ -298,12 +254,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Currency code</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Currency code</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Currency code</em>' attribute.
 	 * @see #setCurrency_code(String)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Currency_code()
@@ -314,8 +268,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getCurrency_code <em>Currency code</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Currency code</em>' attribute.
 	 * @see #getCurrency_code()
 	 * @generated
@@ -324,12 +276,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Currency digits</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Currency digits</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Currency digits</em>' attribute.
 	 * @see #setCurrency_digits(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Currency_digits()
@@ -340,8 +290,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getCurrency_digits <em>Currency digits</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Currency digits</em>' attribute.
 	 * @see #getCurrency_digits()
 	 * @generated
@@ -350,12 +298,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Currency multiplesof</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Currency multiplesof</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Currency multiplesof</em>' attribute.
 	 * @see #setCurrency_multiplesof(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Currency_multiplesof()
@@ -366,8 +312,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getCurrency_multiplesof <em>Currency multiplesof</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Currency multiplesof</em>' attribute.
 	 * @see #getCurrency_multiplesof()
 	 * @generated
@@ -376,12 +320,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Principal amount</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Principal amount</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Principal amount</em>' attribute.
 	 * @see #setPrincipal_amount(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Principal_amount()
@@ -392,8 +334,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPrincipal_amount <em>Principal amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Principal amount</em>' attribute.
 	 * @see #getPrincipal_amount()
 	 * @generated
@@ -402,12 +342,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Approved principal</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Approved principal</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Approved principal</em>' attribute.
 	 * @see #setApproved_principal(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Approved_principal()
@@ -418,8 +356,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getApproved_principal <em>Approved principal</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Approved principal</em>' attribute.
 	 * @see #getApproved_principal()
 	 * @generated
@@ -428,12 +364,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Arrearstolerance amount</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Arrearstolerance amount</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Arrearstolerance amount</em>' attribute.
 	 * @see #setArrearstolerance_amount(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Arrearstolerance_amount()
@@ -444,8 +378,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getArrearstolerance_amount <em>Arrearstolerance amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Arrearstolerance amount</em>' attribute.
 	 * @see #getArrearstolerance_amount()
 	 * @generated
@@ -454,12 +386,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Nominal interest rate per period</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Nominal interest rate per period</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Nominal interest rate per period</em>' attribute.
 	 * @see #setNominal_interest_rate_per_period(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Nominal_interest_rate_per_period()
@@ -470,8 +400,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getNominal_interest_rate_per_period <em>Nominal interest rate per period</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Nominal interest rate per period</em>' attribute.
 	 * @see #getNominal_interest_rate_per_period()
 	 * @generated
@@ -480,12 +408,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest period frequency enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest period frequency enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest period frequency enum</em>' attribute.
 	 * @see #setInterest_period_frequency_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_period_frequency_enum()
@@ -496,8 +422,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_period_frequency_enum <em>Interest period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest period frequency enum</em>' attribute.
 	 * @see #getInterest_period_frequency_enum()
 	 * @generated
@@ -506,12 +430,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Annual nominal interest rate</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Annual nominal interest rate</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Annual nominal interest rate</em>' attribute.
 	 * @see #setAnnual_nominal_interest_rate(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Annual_nominal_interest_rate()
@@ -522,8 +444,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getAnnual_nominal_interest_rate <em>Annual nominal interest rate</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Annual nominal interest rate</em>' attribute.
 	 * @see #getAnnual_nominal_interest_rate()
 	 * @generated
@@ -532,12 +452,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest method enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest method enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest method enum</em>' attribute.
 	 * @see #setInterest_method_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_method_enum()
@@ -548,8 +466,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_method_enum <em>Interest method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest method enum</em>' attribute.
 	 * @see #getInterest_method_enum()
 	 * @generated
@@ -558,12 +474,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest calculated in period enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest calculated in period enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest calculated in period enum</em>' attribute.
 	 * @see #setInterest_calculated_in_period_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_calculated_in_period_enum()
@@ -574,8 +488,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_calculated_in_period_enum <em>Interest calculated in period enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest calculated in period enum</em>' attribute.
 	 * @see #getInterest_calculated_in_period_enum()
 	 * @generated
@@ -584,12 +496,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Term frequency</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Term frequency</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Term frequency</em>' attribute.
 	 * @see #setTerm_frequency(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Term_frequency()
@@ -600,8 +510,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTerm_frequency <em>Term frequency</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Term frequency</em>' attribute.
 	 * @see #getTerm_frequency()
 	 * @generated
@@ -610,12 +518,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Term period frequency enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Term period frequency enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Term period frequency enum</em>' attribute.
 	 * @see #setTerm_period_frequency_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Term_period_frequency_enum()
@@ -626,8 +532,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTerm_period_frequency_enum <em>Term period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Term period frequency enum</em>' attribute.
 	 * @see #getTerm_period_frequency_enum()
 	 * @generated
@@ -636,12 +540,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Repay every</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Repay every</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Repay every</em>' attribute.
 	 * @see #setRepay_every(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Repay_every()
@@ -652,8 +554,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRepay_every <em>Repay every</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Repay every</em>' attribute.
 	 * @see #getRepay_every()
 	 * @generated
@@ -662,12 +562,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Repayment period frequency enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Repayment period frequency enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Repayment period frequency enum</em>' attribute.
 	 * @see #setRepayment_period_frequency_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Repayment_period_frequency_enum()
@@ -678,8 +576,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRepayment_period_frequency_enum <em>Repayment period frequency enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Repayment period frequency enum</em>' attribute.
 	 * @see #getRepayment_period_frequency_enum()
 	 * @generated
@@ -688,12 +584,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Number of repayments</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Number of repayments</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Number of repayments</em>' attribute.
 	 * @see #setNumber_of_repayments(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Number_of_repayments()
@@ -704,8 +598,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getNumber_of_repayments <em>Number of repayments</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Number of repayments</em>' attribute.
 	 * @see #getNumber_of_repayments()
 	 * @generated
@@ -714,12 +606,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Grace on principal periods</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Grace on principal periods</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Grace on principal periods</em>' attribute.
 	 * @see #setGrace_on_principal_periods(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Grace_on_principal_periods()
@@ -730,8 +620,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getGrace_on_principal_periods <em>Grace on principal periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Grace on principal periods</em>' attribute.
 	 * @see #getGrace_on_principal_periods()
 	 * @generated
@@ -740,12 +628,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Grace on interest periods</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Grace on interest periods</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Grace on interest periods</em>' attribute.
 	 * @see #setGrace_on_interest_periods(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Grace_on_interest_periods()
@@ -756,8 +642,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getGrace_on_interest_periods <em>Grace on interest periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Grace on interest periods</em>' attribute.
 	 * @see #getGrace_on_interest_periods()
 	 * @generated
@@ -766,12 +650,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Grace interest free periods</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Grace interest free periods</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Grace interest free periods</em>' attribute.
 	 * @see #setGrace_interest_free_periods(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Grace_interest_free_periods()
@@ -782,8 +664,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getGrace_interest_free_periods <em>Grace interest free periods</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Grace interest free periods</em>' attribute.
 	 * @see #getGrace_interest_free_periods()
 	 * @generated
@@ -792,12 +672,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Amortization method enum</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Amortization method enum</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Amortization method enum</em>' attribute.
 	 * @see #setAmortization_method_enum(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Amortization_method_enum()
@@ -808,8 +686,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getAmortization_method_enum <em>Amortization method enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Amortization method enum</em>' attribute.
 	 * @see #getAmortization_method_enum()
 	 * @generated
@@ -818,12 +694,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Submittedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Submittedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Submittedon date</em>' attribute.
 	 * @see #setSubmittedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Submittedon_date()
@@ -834,8 +708,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getSubmittedon_date <em>Submittedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Submittedon date</em>' attribute.
 	 * @see #getSubmittedon_date()
 	 * @generated
@@ -844,12 +716,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Submittedon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Submittedon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Submittedon userid</em>' attribute.
 	 * @see #setSubmittedon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Submittedon_userid()
@@ -860,8 +730,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getSubmittedon_userid <em>Submittedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Submittedon userid</em>' attribute.
 	 * @see #getSubmittedon_userid()
 	 * @generated
@@ -870,12 +738,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Approvedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Approvedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Approvedon date</em>' attribute.
 	 * @see #setApprovedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Approvedon_date()
@@ -886,8 +752,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getApprovedon_date <em>Approvedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Approvedon date</em>' attribute.
 	 * @see #getApprovedon_date()
 	 * @generated
@@ -896,12 +760,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Approvedon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Approvedon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Approvedon userid</em>' attribute.
 	 * @see #setApprovedon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Approvedon_userid()
@@ -912,8 +774,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getApprovedon_userid <em>Approvedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Approvedon userid</em>' attribute.
 	 * @see #getApprovedon_userid()
 	 * @generated
@@ -922,12 +782,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Expected disbursedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Expected disbursedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Expected disbursedon date</em>' attribute.
 	 * @see #setExpected_disbursedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Expected_disbursedon_date()
@@ -938,8 +796,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getExpected_disbursedon_date <em>Expected disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Expected disbursedon date</em>' attribute.
 	 * @see #getExpected_disbursedon_date()
 	 * @generated
@@ -948,12 +804,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Expected firstrepaymenton date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Expected firstrepaymenton date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Expected firstrepaymenton date</em>' attribute.
 	 * @see #setExpected_firstrepaymenton_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Expected_firstrepaymenton_date()
@@ -964,8 +818,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getExpected_firstrepaymenton_date <em>Expected firstrepaymenton date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Expected firstrepaymenton date</em>' attribute.
 	 * @see #getExpected_firstrepaymenton_date()
 	 * @generated
@@ -974,12 +826,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest calculated from date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest calculated from date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest calculated from date</em>' attribute.
 	 * @see #setInterest_calculated_from_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_calculated_from_date()
@@ -990,8 +840,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_calculated_from_date <em>Interest calculated from date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest calculated from date</em>' attribute.
 	 * @see #getInterest_calculated_from_date()
 	 * @generated
@@ -1000,12 +848,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Disbursedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Disbursedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Disbursedon date</em>' attribute.
 	 * @see #setDisbursedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Disbursedon_date()
@@ -1016,8 +862,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getDisbursedon_date <em>Disbursedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Disbursedon date</em>' attribute.
 	 * @see #getDisbursedon_date()
 	 * @generated
@@ -1026,12 +870,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Disbursedon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Disbursedon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Disbursedon userid</em>' attribute.
 	 * @see #setDisbursedon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Disbursedon_userid()
@@ -1042,8 +884,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getDisbursedon_userid <em>Disbursedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Disbursedon userid</em>' attribute.
 	 * @see #getDisbursedon_userid()
 	 * @generated
@@ -1052,12 +892,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Expected maturedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Expected maturedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Expected maturedon date</em>' attribute.
 	 * @see #setExpected_maturedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Expected_maturedon_date()
@@ -1068,8 +906,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getExpected_maturedon_date <em>Expected maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Expected maturedon date</em>' attribute.
 	 * @see #getExpected_maturedon_date()
 	 * @generated
@@ -1078,12 +914,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Maturedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Maturedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Maturedon date</em>' attribute.
 	 * @see #setMaturedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Maturedon_date()
@@ -1094,8 +928,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getMaturedon_date <em>Maturedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Maturedon date</em>' attribute.
 	 * @see #getMaturedon_date()
 	 * @generated
@@ -1104,12 +936,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Closedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Closedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Closedon date</em>' attribute.
 	 * @see #setClosedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Closedon_date()
@@ -1120,8 +950,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getClosedon_date <em>Closedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Closedon date</em>' attribute.
 	 * @see #getClosedon_date()
 	 * @generated
@@ -1130,12 +958,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Closedon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Closedon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Closedon userid</em>' attribute.
 	 * @see #setClosedon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Closedon_userid()
@@ -1146,8 +972,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getClosedon_userid <em>Closedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Closedon userid</em>' attribute.
 	 * @see #getClosedon_userid()
 	 * @generated
@@ -1156,12 +980,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total charges due at disbursement derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total charges due at disbursement derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total charges due at disbursement derived</em>' attribute.
 	 * @see #setTotal_charges_due_at_disbursement_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_charges_due_at_disbursement_derived()
@@ -1172,8 +994,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_charges_due_at_disbursement_derived <em>Total charges due at disbursement derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total charges due at disbursement derived</em>' attribute.
 	 * @see #getTotal_charges_due_at_disbursement_derived()
 	 * @generated
@@ -1182,12 +1002,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Principal disbursed derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Principal disbursed derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Principal disbursed derived</em>' attribute.
 	 * @see #setPrincipal_disbursed_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Principal_disbursed_derived()
@@ -1198,8 +1016,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPrincipal_disbursed_derived <em>Principal disbursed derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Principal disbursed derived</em>' attribute.
 	 * @see #getPrincipal_disbursed_derived()
 	 * @generated
@@ -1208,12 +1024,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Principal repaid derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Principal repaid derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Principal repaid derived</em>' attribute.
 	 * @see #setPrincipal_repaid_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Principal_repaid_derived()
@@ -1224,8 +1038,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPrincipal_repaid_derived <em>Principal repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Principal repaid derived</em>' attribute.
 	 * @see #getPrincipal_repaid_derived()
 	 * @generated
@@ -1234,12 +1046,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Principal writtenoff derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Principal writtenoff derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Principal writtenoff derived</em>' attribute.
 	 * @see #setPrincipal_writtenoff_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Principal_writtenoff_derived()
@@ -1250,8 +1060,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPrincipal_writtenoff_derived <em>Principal writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Principal writtenoff derived</em>' attribute.
 	 * @see #getPrincipal_writtenoff_derived()
 	 * @generated
@@ -1260,12 +1068,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Principal outstanding derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Principal outstanding derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Principal outstanding derived</em>' attribute.
 	 * @see #setPrincipal_outstanding_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Principal_outstanding_derived()
@@ -1276,8 +1082,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPrincipal_outstanding_derived <em>Principal outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Principal outstanding derived</em>' attribute.
 	 * @see #getPrincipal_outstanding_derived()
 	 * @generated
@@ -1286,12 +1090,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest charged derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest charged derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest charged derived</em>' attribute.
 	 * @see #setInterest_charged_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_charged_derived()
@@ -1302,8 +1104,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_charged_derived <em>Interest charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest charged derived</em>' attribute.
 	 * @see #getInterest_charged_derived()
 	 * @generated
@@ -1312,12 +1112,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest repaid derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest repaid derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest repaid derived</em>' attribute.
 	 * @see #setInterest_repaid_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_repaid_derived()
@@ -1328,8 +1126,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_repaid_derived <em>Interest repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest repaid derived</em>' attribute.
 	 * @see #getInterest_repaid_derived()
 	 * @generated
@@ -1338,12 +1134,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest waived derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest waived derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest waived derived</em>' attribute.
 	 * @see #setInterest_waived_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_waived_derived()
@@ -1354,8 +1148,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_waived_derived <em>Interest waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest waived derived</em>' attribute.
 	 * @see #getInterest_waived_derived()
 	 * @generated
@@ -1364,12 +1156,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest writtenoff derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest writtenoff derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest writtenoff derived</em>' attribute.
 	 * @see #setInterest_writtenoff_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_writtenoff_derived()
@@ -1380,8 +1170,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_writtenoff_derived <em>Interest writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest writtenoff derived</em>' attribute.
 	 * @see #getInterest_writtenoff_derived()
 	 * @generated
@@ -1390,12 +1178,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Interest outstanding derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Interest outstanding derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Interest outstanding derived</em>' attribute.
 	 * @see #setInterest_outstanding_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Interest_outstanding_derived()
@@ -1406,8 +1192,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getInterest_outstanding_derived <em>Interest outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Interest outstanding derived</em>' attribute.
 	 * @see #getInterest_outstanding_derived()
 	 * @generated
@@ -1416,12 +1200,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fee charges charged derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fee charges charged derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fee charges charged derived</em>' attribute.
 	 * @see #setFee_charges_charged_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fee_charges_charged_derived()
@@ -1432,8 +1214,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFee_charges_charged_derived <em>Fee charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fee charges charged derived</em>' attribute.
 	 * @see #getFee_charges_charged_derived()
 	 * @generated
@@ -1442,12 +1222,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fee charges repaid derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fee charges repaid derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fee charges repaid derived</em>' attribute.
 	 * @see #setFee_charges_repaid_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fee_charges_repaid_derived()
@@ -1458,8 +1236,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFee_charges_repaid_derived <em>Fee charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fee charges repaid derived</em>' attribute.
 	 * @see #getFee_charges_repaid_derived()
 	 * @generated
@@ -1468,12 +1244,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fee charges waived derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fee charges waived derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fee charges waived derived</em>' attribute.
 	 * @see #setFee_charges_waived_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fee_charges_waived_derived()
@@ -1484,8 +1258,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFee_charges_waived_derived <em>Fee charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fee charges waived derived</em>' attribute.
 	 * @see #getFee_charges_waived_derived()
 	 * @generated
@@ -1494,12 +1266,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fee charges writtenoff derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fee charges writtenoff derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fee charges writtenoff derived</em>' attribute.
 	 * @see #setFee_charges_writtenoff_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fee_charges_writtenoff_derived()
@@ -1510,8 +1280,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFee_charges_writtenoff_derived <em>Fee charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fee charges writtenoff derived</em>' attribute.
 	 * @see #getFee_charges_writtenoff_derived()
 	 * @generated
@@ -1520,12 +1288,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fee charges outstanding derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fee charges outstanding derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fee charges outstanding derived</em>' attribute.
 	 * @see #setFee_charges_outstanding_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fee_charges_outstanding_derived()
@@ -1536,8 +1302,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFee_charges_outstanding_derived <em>Fee charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fee charges outstanding derived</em>' attribute.
 	 * @see #getFee_charges_outstanding_derived()
 	 * @generated
@@ -1546,12 +1310,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Penalty charges charged derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Penalty charges charged derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Penalty charges charged derived</em>' attribute.
 	 * @see #setPenalty_charges_charged_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Penalty_charges_charged_derived()
@@ -1562,8 +1324,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPenalty_charges_charged_derived <em>Penalty charges charged derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Penalty charges charged derived</em>' attribute.
 	 * @see #getPenalty_charges_charged_derived()
 	 * @generated
@@ -1572,12 +1332,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Penalty charges repaid derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Penalty charges repaid derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Penalty charges repaid derived</em>' attribute.
 	 * @see #setPenalty_charges_repaid_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Penalty_charges_repaid_derived()
@@ -1588,8 +1346,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPenalty_charges_repaid_derived <em>Penalty charges repaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Penalty charges repaid derived</em>' attribute.
 	 * @see #getPenalty_charges_repaid_derived()
 	 * @generated
@@ -1598,12 +1354,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Penalty charges waived derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Penalty charges waived derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Penalty charges waived derived</em>' attribute.
 	 * @see #setPenalty_charges_waived_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Penalty_charges_waived_derived()
@@ -1614,8 +1368,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPenalty_charges_waived_derived <em>Penalty charges waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Penalty charges waived derived</em>' attribute.
 	 * @see #getPenalty_charges_waived_derived()
 	 * @generated
@@ -1624,12 +1376,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Penalty charges writtenoff derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Penalty charges writtenoff derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Penalty charges writtenoff derived</em>' attribute.
 	 * @see #setPenalty_charges_writtenoff_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Penalty_charges_writtenoff_derived()
@@ -1640,8 +1390,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPenalty_charges_writtenoff_derived <em>Penalty charges writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Penalty charges writtenoff derived</em>' attribute.
 	 * @see #getPenalty_charges_writtenoff_derived()
 	 * @generated
@@ -1650,12 +1398,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Penalty charges outstanding derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Penalty charges outstanding derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Penalty charges outstanding derived</em>' attribute.
 	 * @see #setPenalty_charges_outstanding_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Penalty_charges_outstanding_derived()
@@ -1666,8 +1412,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getPenalty_charges_outstanding_derived <em>Penalty charges outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Penalty charges outstanding derived</em>' attribute.
 	 * @see #getPenalty_charges_outstanding_derived()
 	 * @generated
@@ -1676,12 +1420,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total expected repayment derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total expected repayment derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total expected repayment derived</em>' attribute.
 	 * @see #setTotal_expected_repayment_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_expected_repayment_derived()
@@ -1692,8 +1434,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_expected_repayment_derived <em>Total expected repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total expected repayment derived</em>' attribute.
 	 * @see #getTotal_expected_repayment_derived()
 	 * @generated
@@ -1702,12 +1442,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total repayment derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total repayment derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total repayment derived</em>' attribute.
 	 * @see #setTotal_repayment_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_repayment_derived()
@@ -1718,8 +1456,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_repayment_derived <em>Total repayment derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total repayment derived</em>' attribute.
 	 * @see #getTotal_repayment_derived()
 	 * @generated
@@ -1728,12 +1464,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total expected costofloan derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total expected costofloan derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total expected costofloan derived</em>' attribute.
 	 * @see #setTotal_expected_costofloan_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_expected_costofloan_derived()
@@ -1744,8 +1478,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_expected_costofloan_derived <em>Total expected costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total expected costofloan derived</em>' attribute.
 	 * @see #getTotal_expected_costofloan_derived()
 	 * @generated
@@ -1754,12 +1486,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total costofloan derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total costofloan derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total costofloan derived</em>' attribute.
 	 * @see #setTotal_costofloan_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_costofloan_derived()
@@ -1770,8 +1500,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_costofloan_derived <em>Total costofloan derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total costofloan derived</em>' attribute.
 	 * @see #getTotal_costofloan_derived()
 	 * @generated
@@ -1780,12 +1508,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total waived derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total waived derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total waived derived</em>' attribute.
 	 * @see #setTotal_waived_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_waived_derived()
@@ -1796,8 +1522,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_waived_derived <em>Total waived derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total waived derived</em>' attribute.
 	 * @see #getTotal_waived_derived()
 	 * @generated
@@ -1806,12 +1530,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total writtenoff derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total writtenoff derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total writtenoff derived</em>' attribute.
 	 * @see #setTotal_writtenoff_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_writtenoff_derived()
@@ -1822,8 +1544,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_writtenoff_derived <em>Total writtenoff derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total writtenoff derived</em>' attribute.
 	 * @see #getTotal_writtenoff_derived()
 	 * @generated
@@ -1832,12 +1552,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total outstanding derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total outstanding derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total outstanding derived</em>' attribute.
 	 * @see #setTotal_outstanding_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_outstanding_derived()
@@ -1848,8 +1566,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_outstanding_derived <em>Total outstanding derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total outstanding derived</em>' attribute.
 	 * @see #getTotal_outstanding_derived()
 	 * @generated
@@ -1858,12 +1574,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total overpaid derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total overpaid derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total overpaid derived</em>' attribute.
 	 * @see #setTotal_overpaid_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_overpaid_derived()
@@ -1874,8 +1588,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_overpaid_derived <em>Total overpaid derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total overpaid derived</em>' attribute.
 	 * @see #getTotal_overpaid_derived()
 	 * @generated
@@ -1884,12 +1596,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Rejectedon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Rejectedon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Rejectedon date</em>' attribute.
 	 * @see #setRejectedon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Rejectedon_date()
@@ -1900,8 +1610,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRejectedon_date <em>Rejectedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Rejectedon date</em>' attribute.
 	 * @see #getRejectedon_date()
 	 * @generated
@@ -1910,12 +1618,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Rejectedon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Rejectedon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Rejectedon userid</em>' attribute.
 	 * @see #setRejectedon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Rejectedon_userid()
@@ -1926,8 +1632,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRejectedon_userid <em>Rejectedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Rejectedon userid</em>' attribute.
 	 * @see #getRejectedon_userid()
 	 * @generated
@@ -1936,12 +1640,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Rescheduledon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Rescheduledon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Rescheduledon date</em>' attribute.
 	 * @see #setRescheduledon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Rescheduledon_date()
@@ -1952,8 +1654,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRescheduledon_date <em>Rescheduledon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Rescheduledon date</em>' attribute.
 	 * @see #getRescheduledon_date()
 	 * @generated
@@ -1962,12 +1662,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Rescheduledon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Rescheduledon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Rescheduledon userid</em>' attribute.
 	 * @see #setRescheduledon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Rescheduledon_userid()
@@ -1978,8 +1676,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getRescheduledon_userid <em>Rescheduledon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Rescheduledon userid</em>' attribute.
 	 * @see #getRescheduledon_userid()
 	 * @generated
@@ -1988,12 +1684,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Withdrawnon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Withdrawnon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Withdrawnon date</em>' attribute.
 	 * @see #setWithdrawnon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Withdrawnon_date()
@@ -2004,8 +1698,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getWithdrawnon_date <em>Withdrawnon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Withdrawnon date</em>' attribute.
 	 * @see #getWithdrawnon_date()
 	 * @generated
@@ -2014,12 +1706,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Withdrawnon userid</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Withdrawnon userid</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Withdrawnon userid</em>' attribute.
 	 * @see #setWithdrawnon_userid(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Withdrawnon_userid()
@@ -2030,8 +1720,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getWithdrawnon_userid <em>Withdrawnon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Withdrawnon userid</em>' attribute.
 	 * @see #getWithdrawnon_userid()
 	 * @generated
@@ -2040,12 +1728,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Writtenoffon date</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Writtenoffon date</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Writtenoffon date</em>' attribute.
 	 * @see #setWrittenoffon_date(Date)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Writtenoffon_date()
@@ -2056,8 +1742,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getWrittenoffon_date <em>Writtenoffon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Writtenoffon date</em>' attribute.
 	 * @see #getWrittenoffon_date()
 	 * @generated
@@ -2066,12 +1750,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan transaction strategy id</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan transaction strategy id</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan transaction strategy id</em>' attribute.
 	 * @see #setLoan_transaction_strategy_id(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_transaction_strategy_id()
@@ -2082,8 +1764,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_transaction_strategy_id <em>Loan transaction strategy id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan transaction strategy id</em>' attribute.
 	 * @see #getLoan_transaction_strategy_id()
 	 * @generated
@@ -2092,12 +1772,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Sync disbursement with meeting</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Sync disbursement with meeting</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Sync disbursement with meeting</em>' attribute.
 	 * @see #setSync_disbursement_with_meeting(boolean)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Sync_disbursement_with_meeting()
@@ -2108,8 +1786,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#isSync_disbursement_with_meeting <em>Sync disbursement with meeting</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Sync disbursement with meeting</em>' attribute.
 	 * @see #isSync_disbursement_with_meeting()
 	 * @generated
@@ -2118,12 +1794,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan counter</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan counter</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan counter</em>' attribute.
 	 * @see #setLoan_counter(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_counter()
@@ -2134,8 +1808,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_counter <em>Loan counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan counter</em>' attribute.
 	 * @see #getLoan_counter()
 	 * @generated
@@ -2144,12 +1816,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Loan product counter</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Loan product counter</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Loan product counter</em>' attribute.
 	 * @see #setLoan_product_counter(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Loan_product_counter()
@@ -2160,8 +1830,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getLoan_product_counter <em>Loan product counter</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Loan product counter</em>' attribute.
 	 * @see #getLoan_product_counter()
 	 * @generated
@@ -2170,12 +1838,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Fixed emi amount</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Fixed emi amount</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Fixed emi amount</em>' attribute.
 	 * @see #setFixed_emi_amount(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Fixed_emi_amount()
@@ -2186,8 +1852,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getFixed_emi_amount <em>Fixed emi amount</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Fixed emi amount</em>' attribute.
 	 * @see #getFixed_emi_amount()
 	 * @generated
@@ -2196,12 +1860,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Max outstanding loan balance</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Max outstanding loan balance</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Max outstanding loan balance</em>' attribute.
 	 * @see #setMax_outstanding_loan_balance(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Max_outstanding_loan_balance()
@@ -2212,8 +1874,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getMax_outstanding_loan_balance <em>Max outstanding loan balance</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Max outstanding loan balance</em>' attribute.
 	 * @see #getMax_outstanding_loan_balance()
 	 * @generated
@@ -2222,12 +1882,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Grace on arrears ageing</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Grace on arrears ageing</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Grace on arrears ageing</em>' attribute.
 	 * @see #setGrace_on_arrears_ageing(int)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Grace_on_arrears_ageing()
@@ -2238,8 +1896,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getGrace_on_arrears_ageing <em>Grace on arrears ageing</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Grace on arrears ageing</em>' attribute.
 	 * @see #getGrace_on_arrears_ageing()
 	 * @generated
@@ -2248,12 +1904,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Is npa</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Is npa</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Is npa</em>' attribute.
 	 * @see #setIs_npa(boolean)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Is_npa()
@@ -2264,8 +1918,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#isIs_npa <em>Is npa</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Is npa</em>' attribute.
 	 * @see #isIs_npa()
 	 * @generated
@@ -2274,12 +1926,10 @@ public interface m_loan {
 
 	/**
 	 * Returns the value of the '<em><b>Total recovered derived</b></em>' attribute.
-	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Total recovered derived</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
-	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Total recovered derived</em>' attribute.
 	 * @see #setTotal_recovered_derived(double)
 	 * @see cfg.team10.datamodel.DataModel.DatabaseParserPackage#getm_loan_Total_recovered_derived()
@@ -2290,8 +1940,6 @@ public interface m_loan {
 
 	/**
 	 * Sets the value of the '{@link cfg.team10.datamodel.DataModel.m_loan#getTotal_recovered_derived <em>Total recovered derived</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Total recovered derived</em>' attribute.
 	 * @see #getTotal_recovered_derived()
 	 * @generated
