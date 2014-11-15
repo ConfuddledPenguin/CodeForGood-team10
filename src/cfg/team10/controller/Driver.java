@@ -4,7 +4,7 @@ public class Driver {
 
 	public static void main(String args[]){
 		
-		Controller c = new Controller();
+		(new Controller()).getUserData("1");
 		
 	}
 }
