@@ -120,11 +120,4 @@ public class Algorithm {
 		return onTime;		
 	}
 	
-	
-	
-	
-	
-
-	
-	
 }
