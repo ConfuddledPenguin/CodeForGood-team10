@@ -1,8 +1,5 @@
 package cfg.team10.algorithm;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import cfg.team10.model.m_clientImp;
 import cfg.team10.model.m_clientImp.Gender;
 
@@ -35,7 +32,7 @@ public class Algorithm {
 		}
 		double rating = pScore+fScore;
 		if(reject){
-			rating = 0;
+			rating = 20;
 		}
 		System.out.println(rating);
 		return rating;
