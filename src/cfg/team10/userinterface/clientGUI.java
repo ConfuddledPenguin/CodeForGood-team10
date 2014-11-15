@@ -47,6 +47,7 @@ public class clientGUI extends JFrame implements userInterface {
 				System.exit(0);
 			}
 		});
+		
 		file.add(restart);
 		file.add(exit);
 		menubar.add(file);
