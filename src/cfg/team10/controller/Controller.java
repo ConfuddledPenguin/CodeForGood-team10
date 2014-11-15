@@ -64,7 +64,7 @@ public class Controller {
 			
 			String query2 = "SELECT * FROM m_loan WHERE client_id = " + id + ";";
 			
-			System.out.println("Query is: " + query);
+			System.out.println("SQL Query to the database is: " + query);
 			
 			ResultSet rs2 = (new SQLinteraction()).runQuery(query2);
 			
