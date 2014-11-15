@@ -1,9 +1,8 @@
 /**
  */
-package cfg.team10.datamodel.DataModel.impl;
+package cfg.team10.model;
 
-import cfg.team10.datamodel.DataModel.DatabaseParserPackage;
-import cfg.team10.datamodel.DataModel.m_client;
+import cfg.team10.modelInterfaces.m_client;
 
 import java.util.Date;
 

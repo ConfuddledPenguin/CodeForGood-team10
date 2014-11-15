@@ -1,6 +1,6 @@
 /**
  */
-package cfg.team10.datamodel.DataModel;
+package cfg.team10.modelInterfaces;
 
 import java.util.Date;
 
