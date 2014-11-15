@@ -8,9 +8,7 @@ import java.util.Date;
 
 
 /**
- * <!-- begin-user-doc -->
  * An implementation of the model object '<em><b>mclient</b></em>'.
- * <!-- end-user-doc -->
  * <p>
  * The following features are implemented:
  * <ul>
@@ -50,8 +48,6 @@ import java.util.Date;
 public class m_clientImpl implements m_client {
 	/**
 	 * The default value of the '{@link #getId() <em>Id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getId()
 	 * @generated
 	 * @ordered
@@ -60,8 +56,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getId() <em>Id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getId()
 	 * @generated
 	 * @ordered
@@ -70,8 +64,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getAccount_no() <em>Account no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAccount_no()
 	 * @generated
 	 * @ordered
@@ -80,8 +72,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getAccount_no() <em>Account no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getAccount_no()
 	 * @generated
 	 * @ordered
@@ -90,8 +80,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getExternal_id() <em>External id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExternal_id()
 	 * @generated
 	 * @ordered
@@ -100,8 +88,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getExternal_id() <em>External id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getExternal_id()
 	 * @generated
 	 * @ordered
@@ -110,8 +96,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getStatus_enum() <em>Status enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getStatus_enum()
 	 * @generated
 	 * @ordered
@@ -120,8 +104,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getStatus_enum() <em>Status enum</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getStatus_enum()
 	 * @generated
 	 * @ordered
@@ -130,8 +112,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getActivation_date() <em>Activation date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getActivation_date()
 	 * @generated
 	 * @ordered
@@ -140,8 +120,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getActivation_date() <em>Activation date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getActivation_date()
 	 * @generated
 	 * @ordered
@@ -150,8 +128,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getOffice_joining_date() <em>Office joining date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getOffice_joining_date()
 	 * @generated
 	 * @ordered
@@ -160,8 +136,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getOffice_joining_date() <em>Office joining date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getOffice_joining_date()
 	 * @generated
 	 * @ordered
@@ -170,8 +144,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getOffice_id() <em>Office id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getOffice_id()
 	 * @generated
 	 * @ordered
@@ -180,8 +152,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getOffice_id() <em>Office id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getOffice_id()
 	 * @generated
 	 * @ordered
@@ -190,8 +160,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getTransfer_to_office_id() <em>Transfer to office id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTransfer_to_office_id()
 	 * @generated
 	 * @ordered
@@ -200,8 +168,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getTransfer_to_office_id() <em>Transfer to office id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getTransfer_to_office_id()
 	 * @generated
 	 * @ordered
@@ -210,8 +176,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getStaff_id() <em>Staff id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getStaff_id()
 	 * @generated
 	 * @ordered
@@ -220,8 +184,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getStaff_id() <em>Staff id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getStaff_id()
 	 * @generated
 	 * @ordered
@@ -230,8 +192,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getFirstname() <em>Firstname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFirstname()
 	 * @generated
 	 * @ordered
@@ -240,8 +200,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getFirstname() <em>Firstname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFirstname()
 	 * @generated
 	 * @ordered
@@ -250,8 +208,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getMiddlename() <em>Middlename</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMiddlename()
 	 * @generated
 	 * @ordered
@@ -260,8 +216,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getMiddlename() <em>Middlename</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMiddlename()
 	 * @generated
 	 * @ordered
@@ -270,8 +224,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getLastname() <em>Lastname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLastname()
 	 * @generated
 	 * @ordered
@@ -280,8 +232,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getLastname() <em>Lastname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getLastname()
 	 * @generated
 	 * @ordered
@@ -290,8 +240,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getFullname() <em>Fullname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFullname()
 	 * @generated
 	 * @ordered
@@ -300,8 +248,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getFullname() <em>Fullname</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getFullname()
 	 * @generated
 	 * @ordered
@@ -310,8 +256,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getDisplay_name() <em>Display name</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisplay_name()
 	 * @generated
 	 * @ordered
@@ -320,8 +264,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getDisplay_name() <em>Display name</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDisplay_name()
 	 * @generated
 	 * @ordered
@@ -330,8 +272,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getMobile_no() <em>Mobile no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMobile_no()
 	 * @generated
 	 * @ordered
@@ -340,8 +280,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getMobile_no() <em>Mobile no</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getMobile_no()
 	 * @generated
 	 * @ordered
@@ -350,8 +288,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getGender_cv_id() <em>Gender cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGender_cv_id()
 	 * @generated
 	 * @ordered
@@ -360,8 +296,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getGender_cv_id() <em>Gender cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getGender_cv_id()
 	 * @generated
 	 * @ordered
@@ -370,8 +304,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getDate_of_birth() <em>Date of birth</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDate_of_birth()
 	 * @generated
 	 * @ordered
@@ -380,8 +312,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getDate_of_birth() <em>Date of birth</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDate_of_birth()
 	 * @generated
 	 * @ordered
@@ -390,8 +320,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getImage_id() <em>Image id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getImage_id()
 	 * @generated
 	 * @ordered
@@ -400,8 +328,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getImage_id() <em>Image id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getImage_id()
 	 * @generated
 	 * @ordered
@@ -410,8 +336,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getClosure_reason_cv_id() <em>Closure reason cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosure_reason_cv_id()
 	 * @generated
 	 * @ordered
@@ -420,8 +344,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getClosure_reason_cv_id() <em>Closure reason cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosure_reason_cv_id()
 	 * @generated
 	 * @ordered
@@ -430,8 +352,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getClosedon_date() <em>Closedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_date()
 	 * @generated
 	 * @ordered
@@ -440,8 +360,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getClosedon_date() <em>Closedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_date()
 	 * @generated
 	 * @ordered
@@ -450,8 +368,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getSubmittedon_date() <em>Submittedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_date()
 	 * @generated
 	 * @ordered
@@ -460,8 +376,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getSubmittedon_date() <em>Submittedon date</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_date()
 	 * @generated
 	 * @ordered
@@ -470,8 +384,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getSubmittedon_userid() <em>Submittedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_userid()
 	 * @generated
 	 * @ordered
@@ -480,8 +392,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getSubmittedon_userid() <em>Submittedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getSubmittedon_userid()
 	 * @generated
 	 * @ordered
@@ -490,8 +400,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getActivatedon_userid() <em>Activatedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getActivatedon_userid()
 	 * @generated
 	 * @ordered
@@ -500,8 +408,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getActivatedon_userid() <em>Activatedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getActivatedon_userid()
 	 * @generated
 	 * @ordered
@@ -510,8 +416,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getClosedon_userid() <em>Closedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_userid()
 	 * @generated
 	 * @ordered
@@ -520,8 +424,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getClosedon_userid() <em>Closedon userid</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClosedon_userid()
 	 * @generated
 	 * @ordered
@@ -530,8 +432,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getDefault_savings_product() <em>Default savings product</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDefault_savings_product()
 	 * @generated
 	 * @ordered
@@ -540,8 +440,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getDefault_savings_product() <em>Default savings product</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDefault_savings_product()
 	 * @generated
 	 * @ordered
@@ -550,8 +448,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getDefault_savings_account() <em>Default savings account</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDefault_savings_account()
 	 * @generated
 	 * @ordered
@@ -560,8 +456,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getDefault_savings_account() <em>Default savings account</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getDefault_savings_account()
 	 * @generated
 	 * @ordered
@@ -570,8 +464,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getClient_type_cv_id() <em>Client type cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_type_cv_id()
 	 * @generated
 	 * @ordered
@@ -580,8 +472,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getClient_type_cv_id() <em>Client type cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_type_cv_id()
 	 * @generated
 	 * @ordered
@@ -590,8 +480,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The default value of the '{@link #getClient_classification_cv_id() <em>Client classification cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_classification_cv_id()
 	 * @generated
 	 * @ordered
@@ -600,8 +488,6 @@ public class m_clientImpl implements m_client {
 
 	/**
 	 * The cached value of the '{@link #getClient_classification_cv_id() <em>Client classification cv id</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @see #getClient_classification_cv_id()
 	 * @generated
 	 * @ordered
@@ -609,8 +495,6 @@ public class m_clientImpl implements m_client {
 	protected int client_classification_cv_id = CLIENT_CLASSIFICATION_CV_ID_EDEFAULT;
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	protected m_clientImpl() {
@@ -619,8 +503,6 @@ public class m_clientImpl implements m_client {
 
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getId() {
@@ -628,8 +510,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setId(int newId) {
@@ -638,8 +518,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getAccount_no() {
@@ -647,8 +525,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setAccount_no(String newAccount_no) {
@@ -657,8 +533,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getExternal_id() {
@@ -666,8 +540,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setExternal_id(String newExternal_id) {
@@ -676,8 +548,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getStatus_enum() {
@@ -685,8 +555,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setStatus_enum(int newStatus_enum) {
@@ -695,8 +563,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getActivation_date() {
@@ -704,8 +570,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setActivation_date(Date newActivation_date) {
@@ -714,8 +578,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getOffice_joining_date() {
@@ -723,8 +585,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setOffice_joining_date(Date newOffice_joining_date) {
@@ -733,8 +593,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getOffice_id() {
@@ -742,8 +600,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setOffice_id(int newOffice_id) {
@@ -752,8 +608,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getTransfer_to_office_id() {
@@ -761,8 +615,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setTransfer_to_office_id(int newTransfer_to_office_id) {
@@ -771,8 +623,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getStaff_id() {
@@ -780,8 +630,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setStaff_id(int newStaff_id) {
@@ -790,8 +638,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getFirstname() {
@@ -799,8 +645,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFirstname(String newFirstname) {
@@ -809,8 +653,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getMiddlename() {
@@ -818,8 +660,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setMiddlename(String newMiddlename) {
@@ -828,8 +668,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getLastname() {
@@ -837,8 +675,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setLastname(String newLastname) {
@@ -847,8 +683,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getFullname() {
@@ -856,8 +690,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setFullname(String newFullname) {
@@ -866,8 +698,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getDisplay_name() {
@@ -875,8 +705,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDisplay_name(String newDisplay_name) {
@@ -885,8 +713,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public String getMobile_no() {
@@ -894,8 +720,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setMobile_no(String newMobile_no) {
@@ -904,8 +728,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getGender_cv_id() {
@@ -913,8 +735,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setGender_cv_id(int newGender_cv_id) {
@@ -923,8 +743,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getDate_of_birth() {
@@ -932,8 +750,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDate_of_birth(Date newDate_of_birth) {
@@ -942,8 +758,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getImage_id() {
@@ -951,8 +765,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setImage_id(int newImage_id) {
@@ -961,8 +773,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClosure_reason_cv_id() {
@@ -970,8 +780,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClosure_reason_cv_id(int newClosure_reason_cv_id) {
@@ -980,8 +788,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getClosedon_date() {
@@ -989,8 +795,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClosedon_date(Date newClosedon_date) {
@@ -999,8 +803,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public Date getSubmittedon_date() {
@@ -1008,8 +810,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setSubmittedon_date(Date newSubmittedon_date) {
@@ -1018,8 +818,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getSubmittedon_userid() {
@@ -1027,8 +825,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setSubmittedon_userid(int newSubmittedon_userid) {
@@ -1037,8 +833,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getActivatedon_userid() {
@@ -1046,8 +840,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setActivatedon_userid(int newActivatedon_userid) {
@@ -1056,8 +848,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClosedon_userid() {
@@ -1065,8 +855,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClosedon_userid(int newClosedon_userid) {
@@ -1075,8 +863,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getDefault_savings_product() {
@@ -1084,8 +870,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDefault_savings_product(int newDefault_savings_product) {
@@ -1094,8 +878,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getDefault_savings_account() {
@@ -1103,8 +885,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setDefault_savings_account(int newDefault_savings_account) {
@@ -1113,8 +893,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClient_type_cv_id() {
@@ -1122,8 +900,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClient_type_cv_id(int newClient_type_cv_id) {
@@ -1132,8 +908,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public int getClient_classification_cv_id() {
@@ -1141,8 +915,6 @@ public class m_clientImpl implements m_client {
 	}
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	public void setClient_classification_cv_id(int newClient_classification_cv_id) {
@@ -1152,8 +924,6 @@ public class m_clientImpl implements m_client {
 
 
 	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
 	 * @generated
 	 */
 	@Override
