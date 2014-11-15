@@ -1,5 +1,6 @@
 package cfg.team10.userinterface;
 
+import java.awt.Container;
 import java.awt.Frame;
 import java.awt.TextArea;
 import java.awt.event.ActionEvent;
@@ -75,6 +76,10 @@ public class clientGUI extends JFrame implements userInterface {
 			public void actionPerformed(ActionEvent event) {
 				p1.setVisible(false);
 				p1.removeAll();
+				// int messageType = JOptionPane.ERROR_MESSAGE;
+				// String membId = JOptionPane.showInputDialog(p1,
+				// "Please Enter MemberID: ", "Existing Member",
+				// messageType);
 			}
 		});
 		// If existing Member Prompts for member ID
@@ -96,21 +101,83 @@ public class clientGUI extends JFrame implements userInterface {
 	}
 
 	private void memberLookup(JFrame search, String membId) {
-
 		// if member is valid
 		System.out.println("Member ID to be queried is: " + membId);
-		SpringLayout layout = new SpringLayout();
-		final JPanel p2 = new JPanel();
-		p2.add(new JLabel("Member ID is: " + membId)); // change to query
-		p2.add(new JLabel("First Name: "));
-		p2.add(new JLabel("Surname: "));
-		p2.add(new JLabel(": "));
-		p2.add(new JLabel(": "));
-		p2.add(new JLabel(": "));
-		p2.add(new JLabel(": "));
-		p2.setLayout(layout);
-		search.add(p2);
+		// SpringLayout layout = new SpringLayout();
+		// Container p2 = new JPanel();
+		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
+		int numPairs = labels.length;
+
+		JPanel p = new JPanel(new SpringLayout());
+		for (int i = 0; i < numPairs; i++) {
+			JLabel l = new JLabel(labels[i], JLabel.TRAILING);
+			p.add(l);
+			JTextField textField = new JTextField(10);
+			l.setLabelFor(textField);
+			p.add(textField);
+		}
+
+		// Lay out the panel.
+		SpringUtilities.makeCompactGrid(p, numPairs, 2, // rows, cols
+				6, 6, // initX, initY
+				6, 6); // xPad, yPad
+
+		// Set up the content pane.
+		p.setOpaque(true); // content panes must be opaque
+		search.setContentPane(p);
+
+		// Display the window.
 		search.pack();
+		search.setVisible(true);
+
+		// JLabel lId = new JLabel("Member ID is: ");
+		// JLabel fName = new JLabel("First Name: ");
+		// JLabel sName = new JLabel("Surname: ");
+		// JLabel temp1 = new JLabel(": ");
+		// JLabel t2 = new JLabel(": ");
+		// JLabel t3 = new JLabel(": ");
+		// JLabel t4 = new JLabel(": ");
+		// JLabel paddingId = new JLabel("<padding>"); // change to query
+		// JLabel paddingfName = new JLabel("<padding>");
+		// JLabel paddingsName = new JLabel("<padding>");
+		// JLabel paddingtemp1 = new JLabel("<padding>");
+		// JLabel paddingt2 = new JLabel("<padding>");
+		// JLabel paddingt3 = new JLabel("<padding>");
+		// JLabel paddingt4 = new JLabel("<padding>");
+
+		// p2.add(lId);
+		// p2.add(fName);
+		// p2.add(sName);
+		// p2.add(temp1);
+		// p2.add(t2);
+		// p2.add(t3);
+		// p2.add(t4);
+		// p2.add(paddingId);
+		// p2.add(paddingfName);
+		// p2.add(paddingsName);
+		// p2.add(paddingtemp1);
+		// p2.add(paddingt2);
+		// p2.add(paddingt3);
+		// p2.add(paddingt4);
+
+		// layout.putConstraint(SpringLayout.WEST, lId, 0, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, fName, 1, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, sName, 2, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, temp1, 3, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, t2, 4, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, t3, 5, SpringLayout.WEST,
+		// p2);
+		// layout.putConstraint(SpringLayout.WEST, t4, 6, SpringLayout.WEST,
+		// p2);
+
+		// p2.setLayout(layout);
+		// search.add(p2);
+		// search.pack();
 
 	}
 
