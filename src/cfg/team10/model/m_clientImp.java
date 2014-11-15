@@ -58,6 +58,10 @@ public class m_clientImp {
 		return gender;
 	}
 	
+	public boolean getSavingsAccount(){
+		return savingsAccount;
+	}
+	
 	
 	
 }

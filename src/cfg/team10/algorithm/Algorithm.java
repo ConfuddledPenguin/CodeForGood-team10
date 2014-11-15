@@ -103,7 +103,7 @@ public class Algorithm {
 			status = status + 25;
 		}
 		
-		if(savingsAccount()) {
+		if(client.getSavingsAccount()) {
 			status = status + 5;
 		}
 		
@@ -120,11 +120,6 @@ public class Algorithm {
 		return onTime;		
 	}
 	
-	public Boolean savingsAccount(){
-		Boolean hasSavings = false;//sql checks if they have a savings account
-		
-		return hasSavings;
-	}
 	
 	
 	
