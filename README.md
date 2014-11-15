@@ -15,7 +15,7 @@ Thomas Maxwell		-	hello@tom-maxwell.com
 
 Thomas Sinclair 	-	mlb12174@uni.strath.ac.uk
 
-Craig Morrison		-
+Craig Morrison		- strangeplaice@gmail.com
 
 Connor Shaw			- 
 
