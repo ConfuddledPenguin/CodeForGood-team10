@@ -94,6 +94,11 @@ public class clientGUI extends JFrame implements userInterface {
 				String membId = JOptionPane.showInputDialog(p1,
 						"Please Enter MemberID: ", "Existing Member",
 						messageType);
+				
+				int usrChoice = 0;
+				int messageType1 = JOptionPane.QUESTION_MESSAGE;
+				usrChoice = JOptionPane.showConfirmDialog(p1, "Has the purpose of this loan changed?", "Purpose?", 1);
+				
 				memberLookup(search, membId);
 			}
 		});
@@ -103,8 +108,7 @@ public class clientGUI extends JFrame implements userInterface {
 	private void memberLookup(JFrame search, String membId) {
 		// if member is valid
 		System.out.println("Member ID to be queried is: " + membId);
-		// SpringLayout layout = new SpringLayout();
-		// Container p2 = new JPanel();
+		
 		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
 		int numPairs = labels.length;
 
@@ -112,7 +116,7 @@ public class clientGUI extends JFrame implements userInterface {
 		for (int i = 0; i < numPairs; i++) {
 			JLabel l = new JLabel(labels[i], JLabel.TRAILING);
 			p.add(l);
-			JTextField textField = new JTextField(10);
+			JTextField textField = new JTextField(12);
 			l.setLabelFor(textField);
 			p.add(textField);
 		}
