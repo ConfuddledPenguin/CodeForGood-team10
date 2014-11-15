@@ -1,6 +1,5 @@
 package cfg.team10.userinterface;
 
-import java.awt.Button;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -128,10 +127,11 @@ public class clientGUI extends JFrame implements userInterface, ActionListener {
 		// magic bit where query happens to retrieve info
 
 		// add variables to be displayed in frame
-		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
+		String[] labels = { "Account No: ", "First Name: ", "Last Name: ",
+				"Display Name: ", "Date of Birth: ", "Gender" };
 		int numPairs = labels.length;
 
-		JPanel p = new JPanel(new GridLayout(5, 2));
+		JPanel p = new JPanel(new GridLayout(8, 2));
 		for (int i = 0; i < numPairs; i++) {
 			JLabel l = new JLabel(labels[i], JLabel.TRAILING);
 			p.add(l);
@@ -174,10 +174,11 @@ public class clientGUI extends JFrame implements userInterface, ActionListener {
 		// magic bit where query happens to retrieve info
 
 		// add variables to be displayed in frame
-		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
+		String[] labels = { "Account No: ", "First Name: ", "Last Name: ",
+				"Display Name: ", "Date of Birth: ", "Gender" };
 		int numPairs = labels.length;
 
-		JPanel p = new JPanel(new GridLayout(5, 2));
+		JPanel p = new JPanel(new GridLayout(8, 2));
 		for (int i = 0; i < numPairs; i++) {
 			JLabel l = new JLabel(labels[i], JLabel.TRAILING);
 			p.add(l);
