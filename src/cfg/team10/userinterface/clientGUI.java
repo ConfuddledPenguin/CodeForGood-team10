@@ -88,10 +88,10 @@ public class clientGUI extends JFrame implements userInterface {
 			public void actionPerformed(ActionEvent event) {
 				p1.setVisible(false);
 				p1.removeAll();
-				// int messageType = JOptionPane.ERROR_MESSAGE;
-				// String membId = JOptionPane.showInputDialog(p1,
-				// "Please Enter MemberID: ", "Existing Member",
-				// messageType);
+		        JOptionPane.showMessageDialog(null, "Not yet implemented", "InfoBox: Error", JOptionPane.ERROR_MESSAGE);
+		        System.out.println("Not yet implemented");
+		    	search.dispose();
+				initMenu();
 			}
 		});
 		// If existing Member Prompts for member ID
@@ -108,12 +108,12 @@ public class clientGUI extends JFrame implements userInterface {
 						messageType);
 
 				// yes 0 no 1 cancel 2
-//				int usrChoice = JOptionPane.showConfirmDialog(p1,
-//						"Has the purpose of this loan changed?", "Purpose?", 1);
-//				System.out.println(usrChoice);
+				// int usrChoice = JOptionPane.showConfirmDialog(p1,
+				// "Has the purpose of this loan changed?", "Purpose?", 1);
+				// System.out.println(usrChoice);
 
-//				if (usrChoice != 2)
-					memberLookup(search, membId);
+				// if (usrChoice != 2)
+				memberLookup(search, membId);
 			}
 		});
 		p1.setVisible(true);
