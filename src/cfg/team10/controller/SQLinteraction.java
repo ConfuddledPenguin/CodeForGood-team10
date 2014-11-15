@@ -26,9 +26,11 @@ public class SQLinteraction {
 	public ResultSet runQuery(String query){
 		
 		try {
+			
 			statement = con.createStatement();
 			
-			statement.executeQuery(query);
+			resultSet = statement.executeQuery(query);
+			
 		} catch (SQLException e) {
 
 			e.printStackTrace();
