@@ -14,12 +14,23 @@ public class m_clientImp {
 	private String displayName;
 	private Date DoB;
 	private Gender gender;
+	private int clientId;
+	
+	public m_clientImp(String account_no, String fname, String sname, String displayname, Date DoB, Gender gender, int clientId){
+	}
+
+
 	private String phoneNumber;
 	private boolean savingsAccount;
 	
 	
+<<<<<<< HEAD
 	public m_clientImp(String account_no, String fname, String sname, String displayname,
 						Date DoB, Gender gender, String phonNumber, boolean savingsAccount){
+=======
+	public m_clientImp(String account_no, String fname, String sname, String displayname, Date DoB, Gender gender, String phonNumber){
+
+>>>>>>> Integration
 		
 		this.account_no = account_no;
 		this.fname = fname;
@@ -27,9 +38,14 @@ public class m_clientImp {
 		this.displayName = displayname;
 		this.DoB = DoB;
 		this.gender = gender;
+<<<<<<< HEAD
 		this.savingsAccount = savingsAccount;
+=======
+		this.clientId = clientId;
+>>>>>>> Integration
 	}
 	
+
 	public String getaccount_no(){
 		return account_no;
 	}
@@ -57,6 +73,7 @@ public class m_clientImp {
 	public Gender getGender(){
 		return gender;
 	}
+<<<<<<< HEAD
 	
 	public boolean getSavingsAccount(){
 		return savingsAccount;
@@ -64,4 +81,7 @@ public class m_clientImp {
 	
 	
 	
+=======
+
+>>>>>>> Integration
 }
