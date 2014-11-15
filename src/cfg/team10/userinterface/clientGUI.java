@@ -22,7 +22,7 @@ public class clientGUI extends JFrame implements userInterface {
 
 	public void initMenu() {
 		// create window
-		JFrame search = new JFrame();
+		final JFrame search = new JFrame();
 		search.setTitle("Database Lookup");
 		search.setLocationRelativeTo(null);
 		search.setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -31,6 +31,17 @@ public class clientGUI extends JFrame implements userInterface {
 		JMenuBar menubar = new JMenuBar();
 		JMenu file = new JMenu("File");
 		file.setMnemonic(KeyEvent.VK_F);
+
+		JMenuItem restart = new JMenuItem("Restart");
+		restart.setMnemonic(KeyEvent.VK_R);
+		restart.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent event) {
+				search.dispose();
+				initMenu();
+			}
+		});
+
 		JMenuItem exit = new JMenuItem("Exit");
 		exit.setMnemonic(KeyEvent.VK_E);
 		exit.addActionListener(new ActionListener() {
@@ -39,6 +50,7 @@ public class clientGUI extends JFrame implements userInterface {
 				System.exit(0);
 			}
 		});
+		file.add(restart);
 		file.add(exit);
 		menubar.add(file);
 		search.setJMenuBar(menubar);
@@ -94,11 +106,12 @@ public class clientGUI extends JFrame implements userInterface {
 				String membId = JOptionPane.showInputDialog(p1,
 						"Please Enter MemberID: ", "Existing Member",
 						messageType);
-				
-				int usrChoice = 0;
-				int messageType1 = JOptionPane.QUESTION_MESSAGE;
-				usrChoice = JOptionPane.showConfirmDialog(p1, "Has the purpose of this loan changed?", "Purpose?", 1);
-				
+
+				//yes 0 no 1 cancel 2
+				int usrChoice = JOptionPane.showConfirmDialog(p1,
+						"Has the purpose of this loan changed?", "Purpose?", 1);
+				System.out.println(usrChoice);
+
 				memberLookup(search, membId);
 			}
 		});
@@ -108,7 +121,7 @@ public class clientGUI extends JFrame implements userInterface {
 	private void memberLookup(JFrame search, String membId) {
 		// if member is valid
 		System.out.println("Member ID to be queried is: " + membId);
-		
+
 		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
 		int numPairs = labels.length;
 
