@@ -136,8 +136,9 @@ public class clientGUI extends JFrame implements userInterface {
 			l.setLabelFor(textField);
 			p.add(textField);
 		}
+		
 		JButton submit = new JButton("Submit changes");
-		p.add(submit);
+		p.add(submit); //still misbehaving
 		submit.setVisible(true);
 
 		// Lay out the panel.
@@ -153,7 +154,6 @@ public class clientGUI extends JFrame implements userInterface {
 		search.pack();
 		search.setVisible(true);
 
-		
 	}
 
 }
