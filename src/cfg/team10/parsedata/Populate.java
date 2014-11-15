@@ -39,6 +39,8 @@ public class Populate {
 				System.out.println("Table Name " + table_name);
 
 				while(colRes.next()) {
+					
+					
 
 					String column_name = colRes.getString(4);
 					int column_type = colRes.getInt(5);
