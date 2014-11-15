@@ -15,7 +15,7 @@ public class Populate {
 		
 	}
 	
-	public ArrayList<String> connect(Object table) {
+	public ArrayList<String> connect(String tableName) {
 		
 		Connection con = null;
 		ResultSet rs = null;
@@ -31,11 +31,11 @@ public class Populate {
 			
 			con = DriverManager.getConnection(url, user, password);
             st = con.createStatement();
-            rs = st.executeQuery("SELECT * FROM " + table.);
+            rs = st.executeQuery("SELECT * FROM " + tableName); //as string
             
             while(rs.next()) {
             	
-            	System.out.println(rs.getString(column));
+            	//System.out.println(rs.getString(column));
             	
             }
 			

@@ -125,7 +125,9 @@ public class clientGUI extends JFrame implements userInterface, ActionListener {
 		System.out.println("Member ID to be queried is: " + membId);
 
 		// magic bit where query happens to retrieve info
-
+		//
+		
+		
 		// add variables to be displayed in frame
 		String[] labels = { "Account No: ", "First Name: ", "Last Name: ",
 				"Display Name: ", "Date of Birth: ", "Gender" };

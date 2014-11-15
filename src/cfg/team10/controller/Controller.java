@@ -18,7 +18,7 @@ public class Controller {
 		//create interface
 		//userInterface ui = new clientGUI();
 		
-		System.out.println("What is the id");
+		System.out.println("Please Enter an ID: ");
 		Scanner s = new Scanner(System.in);
 		
 		getUserData(s.nextLine());
@@ -83,7 +83,7 @@ public class Controller {
 			}
 			
 			
-			System.out.println("How much whould you like?");
+			System.out.println("How much whould you like to borrow?");
 			Scanner s = new Scanner(System.in);
 			Double requested = s.nextDouble();
 			
