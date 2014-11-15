@@ -1,5 +1,6 @@
 package cfg.team10.userinterface;
 
+import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
@@ -47,7 +48,7 @@ public class clientGUI extends JFrame implements userInterface {
 				System.exit(0);
 			}
 		});
-		
+
 		file.add(restart);
 		file.add(exit);
 		menubar.add(file);
@@ -129,23 +130,25 @@ public class clientGUI extends JFrame implements userInterface {
 		String[] labels = { "Name: ", "Fax: ", "Email: ", "Address: " };
 		int numPairs = labels.length;
 
-		JPanel p = new JPanel(new SpringLayout());
+		JPanel p = new JPanel(new GridLayout(5, 2));
 		for (int i = 0; i < numPairs; i++) {
 			JLabel l = new JLabel(labels[i], JLabel.TRAILING);
 			p.add(l);
+
 			JTextField textField = new JTextField(20);
 			l.setLabelFor(textField);
 			p.add(textField);
 		}
-		
+		JLabel filler = new JLabel("", JLabel.TRAILING);
+		p.add(filler);
 		JButton submit = new JButton("Submit changes");
-		p.add(submit); //still misbehaving
+		p.add(submit); // still misbehaving
 		submit.setVisible(true);
 
 		// Lay out the panel.
-		SpringUtilities.makeCompactGrid(p, numPairs, 2, // rows, cols
-				6, 6, // initX, initY
-				6, 6); // xPad, yPad
+		// SpringUtilities.makeCompactGrid(p, numPairs, 2, // rows, cols
+		// 6, 6, // initX, initY
+		// 6, 6); // xPad, yPad
 
 		// Set up the content pane.
 		p.setOpaque(true); // content panes must be opaque
