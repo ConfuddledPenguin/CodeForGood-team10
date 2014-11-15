@@ -30,7 +30,7 @@ public class Controller {
 				
 				Gender gender;
 				
-				if(rs.getInt("gender_cv_id") == 55){
+				if(rs.getInt("gender_cv_id") == 54){
 						
 					gender = m_clientImp.Gender.Male;
 				}else{
