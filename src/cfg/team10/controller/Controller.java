@@ -22,13 +22,13 @@ public class Controller {
 
 		try {
 
-			SQLinteraction sql = new SQLinteraction();
-
 			String query = 	"SELECT * FROM m_client WHERE id = " + id + ";";
-
-			ResultSet rs = sql.runQuery(query);
 			
-			System.out.println("RS = " + rs);
+			System.out.println("Query is: " + query);
+
+			ResultSet rs = (new SQLinteraction()).runQuery(query);
+			
+			System.out.println("RS: " + rs);
 
 			while(rs.next()) {
 
