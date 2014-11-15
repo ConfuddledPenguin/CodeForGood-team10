@@ -37,7 +37,7 @@ public class SQLinteraction {
 		return resultSet;		
 	}
 	
-	private void close() {
+	public void close() {
 		close(resultSet);
 		close(statement);
 		close(con);
