@@ -59,6 +59,33 @@ public class Algorithm {
          
         //Loan status counts for 25% of their recommendation
         double status = 0.0;
+        
+         
+        if(principle<10000.00){
+            status=+ 15;
+        } else if(principle<25000.00){
+            status =+ 9;
+        }
+        else{
+            status =+ 3;
+        }   
+         
+        if( !loan.getOutstandingLoan()) {
+            status = status + 10;
+        }
+         
+        if(loan.getPaiedOnTime()) {
+            status = status + 25;
+        }
+         
+        if(loan.getSavingsBalance() > principle) {
+            status = status + 5;
+        }
+        
+        if(loan_status == null){
+        	return status;
+        }
+        
         switch(loan_status.getStatus()){
         case m_Status.AWAITING_APROVAL:
                 reject = true; //They've already applied for loan and not been approved or rejected yet, shouldn't be applying for another already
@@ -85,28 +112,7 @@ public class Algorithm {
         case m_Status.OVERPAID:
                 status = status + 25;
         }
-         
-        if(principle<10000.00){
-            status=+ 15;
-        } else if(principle<25000.00){
-            status =+ 9;
-        }
-        else{
-            status =+ 3;
-        }   
-         
-        if( !loan.getOutstandingLoan()) {
-            status = status + 10;
-        }
-         
-        if(loan.getPaiedOnTime()) {
-            status = status + 25;
-        }
-         
-        if(loan.getSavingsBalance() > principle) {
-            status = status + 5;
-        }
-         
+        
         return status;
     }
      

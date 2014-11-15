@@ -76,8 +76,10 @@ public class Controller {
 				
 			}
 			
-			if (status.getStatus() == m_Status.ACTIVE){
-				outstanding = true;
+			if(status != null){
+				if (status.getStatus() == m_Status.ACTIVE){
+					outstanding = true;
+				}
 			}
 			
 			
