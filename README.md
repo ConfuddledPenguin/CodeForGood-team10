@@ -3,9 +3,8 @@ CodeForGood-team10
 
 ###Description##
 
-Created for J.P.Morgans Code for Good event.
+Created for J.P.Morgans Code for Good event. This is the Musoni project, in which we are to implement a system that allows the user to give informaton on a client's loan application, and using a database of historical informaiton on clients, loans and other data, determine whether or not to approve the loan. This has been done in Java.
 
-UPDATE THIS LATER
 
 ###License###
 

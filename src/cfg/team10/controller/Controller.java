@@ -44,13 +44,11 @@ public class Controller {
 				}
 				
 				
-				
-				client = new m_clientImp();
+				client = new m_clientImp(rs.getString("account_no"), gender, rs.getString("mobile_no"));
 
 			}
 			
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
