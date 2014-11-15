@@ -14,9 +14,16 @@ public class m_clientImp {
 	private String displayName;
 	private Date DoB;
 	private Gender gender;
+<<<<<<< HEAD
 	private int clientId;
 	
 	public m_clientImp(String account_no, String fname, String sname, String displayname, Date DoB, Gender gender, int clientId){
+=======
+	private String phoneNumber;
+	
+	
+	public m_clientImp(String account_no, String fname, String sname, String displayname, Date DoB, Gender gender, String phonNumber){
+>>>>>>> master
 		
 		this.account_no = account_no;
 		this.fname = fname;
@@ -27,4 +34,37 @@ public class m_clientImp {
 		this.clientId = clientId;
 	}
 	
+<<<<<<< HEAD
+=======
+	public String getaccount_no(){
+		return account_no;
+	}
+	
+	public String getfname(){
+		return fname;
+	}
+	
+	public String getsname(){
+		return sname;
+	}
+	
+	public String getdisplayname(){
+		return displayName;
+	}
+	
+	public Date getDoB(){
+		return DoB;
+	}
+	
+	public String getphonenumber(){
+		return phoneNumber;
+	}
+	
+	public Gender getGender(){
+		return gender;
+	}
+	
+	
+	
+>>>>>>> master
 }
