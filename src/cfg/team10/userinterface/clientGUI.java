@@ -68,6 +68,8 @@ public class clientGUI extends JFrame implements userInterface {
 		search.pack();
 
 		// add listeners to radio buttons
+
+		// New Member - Will show new form to add them to database eventually
 		rbNew.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent event) {
@@ -75,17 +77,41 @@ public class clientGUI extends JFrame implements userInterface {
 				p1.removeAll();
 			}
 		});
+		// If existing Member Prompts for member ID
+		// will prompt for full details if time permits
 		rbReturn.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent event) {
 				p1.setVisible(false);
-				p1.removeAll();
+				search.remove(p1);
+
 				int messageType = JOptionPane.INFORMATION_MESSAGE;
 				String membId = JOptionPane.showInputDialog(p1,
-						"Please Enter MemberID: ", "Existing Member", messageType);
+						"Please Enter MemberID: ", "Existing Member",
+						messageType);
+				memberLookup(search, membId);
 			}
 		});
 		p1.setVisible(true);
+	}
+
+	private void memberLookup(JFrame search, String membId) {
+
+		// if member is valid
+		System.out.println("Member ID to be queried is: " + membId);
+		SpringLayout layout = new SpringLayout();
+		final JPanel p2 = new JPanel();
+		p2.add(new JLabel("Member ID is: " + membId)); // change to query
+		p2.add(new JLabel("First Name: "));
+		p2.add(new JLabel("Surname: "));
+		p2.add(new JLabel(": "));
+		p2.add(new JLabel(": "));
+		p2.add(new JLabel(": "));
+		p2.add(new JLabel(": "));
+		p2.setLayout(layout);
+		search.add(p2);
+		search.pack();
+
 	}
 
 }
