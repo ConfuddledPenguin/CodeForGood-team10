@@ -18,7 +18,7 @@ public class Controller {
 		//create interface
 		//userInterface ui = new clientGUI();
 		
-		System.out.println("Please Enter an ID: ");
+		System.out.println("Please Enter your client ID: ");
 		Scanner s = new Scanner(System.in);
 		
 		getUserData(s.nextLine());
@@ -31,16 +31,12 @@ public class Controller {
 		try {
 
 			String query = 	"SELECT * FROM m_client WHERE id = " + id + ";";
-			
-			System.out.println("Query is: " + query);
+		
 
 			ResultSet rs = (new SQLinteraction()).runQuery(query);
 
 			while(rs.next()) {
 
-				System.out.println(rs.getString("account_no"));
-				System.out.println(rs.getString("gender_cv_id"));
-				System.out.println(rs.getString("mobile_no"));
 				
 				Gender gender = null;
 				
@@ -64,8 +60,6 @@ public class Controller {
 			
 			String query2 = "SELECT * FROM m_loan WHERE client_id = " + id + ";";
 			
-			System.out.println("SQL Query to the database is: " + query);
-			
 			ResultSet rs2 = (new SQLinteraction()).runQuery(query2);
 			
 			while(rs2.next()) {
@@ -83,7 +77,7 @@ public class Controller {
 			}
 			
 			
-			System.out.println("How much whould you like to borrow?");
+			System.out.println("How much money whould you like to borrow?");
 			Scanner s = new Scanner(System.in);
 			Double requested = s.nextDouble();
 			
